@@ -1,0 +1,113 @@
+<PySim xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="pysim" xsi:schemaLocation="pysim /dat/pysimrelease/pysim-4.0.0/pysim.xsd">
+    <Macros EXAMPLES="/home/cqintern06/pysim/examples" EXPRLIB="/dat/pysimrelease/pyalphaexpr" MODULES="/dat/pysimrelease/pysim-4.0.0/build/lib.linux-x86_64-2.7/pysim/modules" PYEXTPATH="/dat/pysimrelease/pyext-2.0.0" TEST="./" ZXWORK="/home/xiongzhang/OFworkd"/>
+
+    <Consts paddinginstsz="5120" __checkpointDays="10" __checkpointDir="./checkpoint" backdays="300" cachepath="/dat/cqcache/data" enddate="TODAY" startdate="20150101"/>
+    <Datasets>
+        <Data id="ALL Ashare TOP100 TOP150 TOP450 TOP300 TOP1000 HS300 ZZ500 TOP2000 TOP2000Filterednoon"/>
+        <Data id="Fxrate ISO BaseData CAX slippage"/>
+        <Data id="Returns Returns5 Returns20 Returns50 Returns120 Returns250 Returns1 Returns3 PriceSnap1130"/>
+        <Data id="ADV20 ADV5 ADV10 ADV100 ADV120 ADV150 ADV30 ADV15 ADV25 ADV50 ADV60"/>
+        <Data id="DR_ATR1_1 DR_STDC20 DR_COHL1 DR_COHL5 DR_HLMC1 DR_HLMC5 DR_HLMC250 DR_PVR5_20 DR_TVR1 DR_TVP1 DR_MKT DR_VOLA5 DR_VOLA30 DR_TVR5 DR_LIQ5"/>
+        <Data id="Indices_399005 Indices_399300"/>
+        <Data id="XueqiuConcernNoon XueqiuConcern"/>
+        <Data id="ZYYQFincashflow ZYYQFinexpress ZYYQConrating ZYYQDercondevstkFY2 ZYYQFinforecast ZYYQDercondevstkFY3 ZYYQDerratingadjustnum ZYYQFinbalancesheet ZYYQDercondevstkFY0 ZYYQDerforecastadjustnumFY2 ZYYQDerforecastadjustnumFY1 ZYYQConforecastroll ZYYQDercondevstkFY1 ZYYQRptearningsadjust ZYYQDerreportextreFY3 ZYYQDerforecastadjustnumFY0 ZYYQConforecastFY0 ZYYQDerratingstrengthrank ZYYQDerreportextreFY1 ZYYQRptratingadjust ZYYQConforecastFY1 ZYYQFinmainratio ZYYQDerforecastrollrank ZYYQConforecastFY3 ZYYQDerreportextreFY0 ZYYQDerforecastadjustnumFY3 ZYYQConforecastFY2 ZYYQFinmainindicator ZYYQFinincome ZYYQConforecastPTG ZYYQDercondevrollstk ZYYQDerfocusstk ZYYQRptforecast ZYYQDerreportextreFY2 ZYYQRptptgadjust ZYYQDerreportnum
+        "/>
+        <Data id="SuperEventfrequencyLow SuperEventfrequencyMiddle SuperEventfrequencyHigh SuperEventfrequencyPeriod"/>
+        <Data id="SuperfundaBalancesheetL2 SuperfundaIncome SuperfundaIncomeL2 SuperfundaCashflow SuperfundaCashflowL2 SuperfundaBalancesheet SuperfundaFinancialindicator SuperfundaFinancialindicatorL2"/>
+        <Data id="WindConsensusexpectationfactor WindConsensusrollingCAGR WindDerivativeindicator WindSwingreversetrend WindDailyvaluationfactor WindConsensusrollingFY3 WindConsensusrollingYOY2 WindFinancialindicatorMatrix WindTechindicators WindTurnovertechnicalfactor WindRevenuetechnicalfactor WindPitfinancialfactor WindL2indicator WindIncomeMatrix WindTop10activestocks WindConsensusrollingFY0 WindProfitnoticeMatrix WindConsensusrollingFTTM WindYield WindMoneyflow WindConsensusrollingFY2 WindAnnfinancialindicatorMatrix WindIntensitytrend WindMargintrade WindConsensusrollingFY1 WindTtmhisMatrix"/>
+        <Data id="Intervalstats7daily Intervaldata1minkurtall Intervalstatsbidaskstddaily Intervaldatasummem1 Intervalstatsdaily Intervaldata5mindeltastdnoon Intervaldata5mindeltastdall Intervaldata5mindeltaskewlast     Intervalstats12meannoon Intervalstatsmorning Intervaldata5minskewnoon Intervalstatsbidaskmorning Intervalstats7ameannoon Intervalstatsbidask3adaily Intervalstatsbidaskdaily Intervaldata5mindeltastdfirst Intervalstatsmeanfirst     Intervalstats2meannoon Intervalextendstatsmeanall Intervaldata1minfirst5 Intervalstatsmeanlast Intervaldata1mindeltastdlast Intervalstatsskewall Intervalstats12daily Intervaldata5minmeannoon Intervaldatasummem2     Intervaldata1minskewall Intervaldata5mindeltastdlast Intervalstatsmeanall Intervalstatsstdnoon Intervalstats2daily Intervalstatsbidaskmultdaily Intervalstats7bmeannoon Intervaldata5minstdall Intervaldata1mindeltastdfirst     Intervaldata5mindeltamaxminall Intervalqueuestatsmeanall Intervaldata5mindeltairlast Intervalreturncorr2 Intervaldata1mindeltastdall Intervalstatsbidaskcorrdaily Intervalstatsbidask5daily Intervaldata5minstdnoon     Intervaldata1mindeltastdnoon Intervalstatsskewpall Intervalstats12meanfirst Intervaldata1minstdnoon Intervalstatsmeannoon Intervaldata5mindeltairnoon Intervalstats13daily Intervalstatsstdall Intervaldata5minmeanfirst      Intervaldata1mindeltaminmaxall Intervalstats11daily "/>
+
+        <Data id="WindIndustry"/>
+
+        <Data id="Intervalstats2" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalstatsbidask5" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervaldetailbidsplit" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalextendstats2" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalorderstats" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalordersnapshotprice" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalstats7b" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervaldetailsellret" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervaldetailupdownstats" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalstatsbidask" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervaldetailedstats" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalqueuestats" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalbidaskextendstats" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="IntervalstatsGroupreturn" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervaldetailbuyret" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalstats" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalstats12" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalstatsbidask3a" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervaldetailasksplit" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalstatsbidask4" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalextendstats" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalstats13" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervaldetailedstats2" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="IntervalData5min" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalbidask12stats" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalbidask12statsb" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervaldetailhlstats1" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalfullorderbook" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="IntervalData" intervalSteps="67" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+
+        <Data id="Intervalqueuestats1min" intervalSteps="241" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalextendstats1min" intervalSteps="241" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="IntervalData1min" intervalSteps="241" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalstats1min" intervalSteps="241" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalorderstats1min" intervalSteps="241" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+
+        <Data id="IntervalData15s" intervalSteps="950" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+
+        <Data id="Intervalopenstats1" intervalSteps="61" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+
+        <Data id="AdjPrices" path="${MODULES}/DataAdjprices.so"/>
+    </Datasets>
+
+
+    <Modules>
+
+        <AlphaModule id="AlphaSimple" path="${MODULES}/AlphaSimple.so"/>
+        <AlphaModule id="ExprLoader" path="${MODULES}/ExprLoader.so"/>
+        <AlphaModule id="AlphaCopy" path="${MODULES}/AlphaCopy.so"/>
+
+        <OpModuleExt id="OpNeutralize" path="${PYEXTPATH}/modules/libopneutralize.so"/>
+
+        <OpModule id="OpPow OpGroupNeut OpDecay OpRiskNeut OpEMADecay OpHump OpNorm OpTruncate OpTradeConstraint OpVectorNeut OpWinsorize OpGroupNeutFast OpNio"/>
+
+        <OpModule id="OpPower2" path="${MODULES}/OpPow.so"/>
+        <OpModule id="OpDecay2" path="${EXAMPLES}/OpDecay.py"/>
+        <OpModuleExt id="OpPercentile" path="${PYEXTPATH}/modules/liboppercentile.so"/>
+
+        <ComboModule id="ComboSimple" path="${MODULES}/ComboSimple.so"/>
+
+        <CalcModule id="CalcSimple" path="${MODULES}/CalcSimple.so"/>
+        <CalcModule id="CalcIndex" path="${MODULES}/CalcIndex.so"/>
+
+        <PortModule id="PortSimple" path="${MODULES}/PortSimple.so"/>
+        <PortModule id="PortExprSimple" path="${MODULES}/PortExprSimple.so"/>
+    </Modules>
+
+    <Port comboId="ComboSimple" homecurrency="CNY" id="MyPort" mId="PortSimple" size="20e6">
+        <Calc mId="CalcSimple" pnlDir="./pnl"/>
+        <Alpha delay="1" exprname="b1" genPosDir="./alpha" genPosFile="false" id="G2020-07-03-224057_trade" mId="ExprLoader" size="20e6" uId="TOP2000">
+            <AlphaInfo author="yw_intern" category="price_volume" instrument="equity" intervalmode="daily" region="chn"/>
+            <Op group="WindIndustry.wind2" mId="OpGroupNeut"/>
+            <Op mId="OpPow"/>
+            <Op factors="dr.liq_5 dr.tvr_5 cap dr.vola_5 returns5 returns20 returns50 adv5 Intervalstatsdaily.std_vol" groups="WindIndustry.sw2" mId="OpNeutralize" rankMode="1"/>
+            <Op mId="OpTruncate" maxPercent="0.1"/>
+            <Op mId="OpTradeConstraint" th="0.025"/>
+        </Alpha>
+        <Alpha delay="1" exprname="b1" genPosDir="./alpha" genPosFile="false" id="G2020-07-03-224057_pct" mId="ExprLoader" size="20e6" uId="TOP2000">
+            <AlphaInfo author="yw_intern" category="price_volume" instrument="equity" intervalmode="daily" region="chn"/>
+            <Op group="WindIndustry.wind2" mId="OpGroupNeut"/>
+            <Op mId="OpPow"/>
+            <Op factors="dr.liq_5 dr.tvr_5 cap dr.vola_5 returns5 returns20 returns50 adv5 Intervalstatsdaily.std_vol" groups="WindIndustry.sw2" mId="OpNeutralize" rankMode="1"/>
+            <Op mId="OpTruncate" maxPercent="0.1"/>
+            <Op mId="OpPercentile" percentile="0.5"/>
+        </Alpha>
+    </Port>
+
+    <PortExpr id="MyPort3" mId="PortExprSimple" pnlDir="./pnl" uId="Ashare">
+        <Expr doScale="true" doStats="true" expression="decay(a10,15)" name="b1"/>
+    </PortExpr>
+</PySim>

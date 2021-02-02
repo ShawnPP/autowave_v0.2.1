@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PySim xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="pysim /dat/pysimrelease/pysim-4.0.0/pysim_wave.xsd" xmlns="pysim">
+    <Macros MODULES="/dat/pysimrelease/pysim-4.0.0/build/lib.linux-x86_64-2.7/pysim/modules" EXAMPLES="/home/xiongzhang" PYEXTPATH="/dat/pysimrelease/pyext-2.0.0" EXPRLIB="/dat/pysimrelease/pyalphaexpr" WAVEDATA="/dat/cqcache/data_wave/" SNAPTIME="143000" SNAPTIME_113000="100000" SNAPCOUNT1="6" SNAPCOUNT2="24" PRODUCTIONPATH="/dat/pysimrelease/pysim-4.0.0/examples/wave_samples/alphaintra1wave/"
+            ZXWORK="/home/xiongzhang/zxwork/trails/2021-01/0129/wave02"/>
+    <Consts startdate="20160101" enddate="TODAY" paddinginstsz="5120" backdays="20" cachepath="/dat/cqcache/data" _checkpointDir="./checkpoint/${SNAPTIME}" _checkpointDays="3"/>
+    <!-- datasets -->
+    <Datasets>
+        <!-- universe -->
+        <Data id="ALL Ashare TOP100 TOP150 TOP450 TOP300 TOP1000 HS300 ZZ500 TOP2000"/>
+        <!--  wave universe -->
+        <Data id="AshareFiltered TOP2000Filtered TOP1000Filtered" cachepath="${WAVEDATA}/${SNAPTIME}"/>
+        <!-- wave data, could be used with di -->
+        <Data id="BaseDataRoll BaseDataCurr" cachepath="${WAVEDATA}/${SNAPTIME}"/>
+        <Data id="roll.tvr_5 roll.vola_60 roll.returns roll.returns3 roll.returns4 roll.returns5 roll.returns50 roll.returns10 roll.returns20 roll.returns250 " cachepath="${WAVEDATA}/${SNAPTIME}"/>
+        <Data id="roll.vola_5 roll.stdc_5 Intervalstatssnaproll Intervalstatsmeanroll roll.cohl_1 roll.hlmc_1 roll.pvr_25_250 roll.vola_30 roll.aret_5 roll.ir roll.tvr_1 roll.liq_1 roll.liq_5 roll.scaledret_1 Intervalstatssnapshot" cachepath="${WAVEDATA}/${SNAPTIME}"/>
+        <Data id="DR_IR DR_OR DR_LIQ5 DR_TVR5 DR_VOLA5 DR_MKT DR_VOLA60 Returns2 Returns3 Returns_0930_1000 Returns_1000_1030 Returns_1030_1100 Returns_1100_1130 Returns_1130_1330 Returns_1330_1400 Returns_1400_1430 Returns_1430_1500"/>
+        <Data id="TradeStatuswave" cachepath="${WAVEDATA}/${SNAPTIME}"/>
+        <!-- wave data, used for Calc module, it's volume/vwapfor half-hour ahead; if use in alpha, need to use di-1 -->
+        <Data id="Snapstats" cachepath="${WAVEDATA}/${SNAPTIME}"/>
+        <!-- delay-1 data(s) -->
+        <Data id="mega mega2"/>
+        <Data id="Fxrate ISO BaseData CAX slippage"/>
+        <Data id="Returns Returns5 Returns20 Returns50 Returns120 Returns250 Returns1"/>
+        <Data id="ADV20 ADV5 ADV10 ADV100 ADV120 ADV150 ADV30 ADV15 ADV25 ADV50 ADV60"/>
+        <Data id="equity.cquser.ordermoo2 equity.cquser.detailcancelmoo"/>
+        <Data id="XueqiuConcernNoon XueqiuConcern"/>
+        <Data id="ZYYQFincashflow ZYYQFinexpress ZYYQConrating ZYYQDercondevstkFY2 ZYYQFinforecast ZYYQDercondevstkFY3 ZYYQDerratingadjustnum ZYYQFinbalancesheet ZYYQDercondevstkFY0 ZYYQDerforecastadjustnumFY2 ZYYQDerforecastadjustnumFY1 ZYYQConforecastroll ZYYQDercondevstkFY1 ZYYQRptearningsadjust ZYYQDerreportextreFY3 ZYYQDerforecastadjustnumFY0 ZYYQConforecastFY0 ZYYQDerratingstrengthrank ZYYQDerreportextreFY1 ZYYQRptratingadjust ZYYQConforecastFY1 ZYYQFinmainratio ZYYQDerforecastrollrank ZYYQConforecastFY3 ZYYQDerreportextreFY0 ZYYQDerforecastadjustnumFY3 ZYYQConforecastFY2 ZYYQFinmainindicator ZYYQFinincome ZYYQConforecastPTG ZYYQDercondevrollstk ZYYQDerfocusstk ZYYQRptforecast ZYYQDerreportextreFY2 ZYYQRptptgadjust ZYYQDerreportnum
+        "/>
+        <Data id="SuperEventfrequencyLow SuperEventfrequencyMiddle SuperEventfrequencyHigh SuperEventfrequencyPeriod"/>
+        <Data id="SuperfundaBalancesheetL2 SuperfundaIncome SuperfundaIncomeL2 SuperfundaCashflow SuperfundaCashflowL2 SuperfundaBalancesheet SuperfundaFinancialindicator SuperfundaFinancialindicatorL2"/>
+        <Data id="WindConsensusexpectationfactor WindConsensusrollingCAGR WindDerivativeindicator WindSwingreversetrend WindDailyvaluationfactor WindConsensusrollingFY3 WindConsensusrollingYOY2 WindFinancialindicatorMatrix WindTechindicators WindTurnovertechnicalfactor WindRevenuetechnicalfactor WindPitfinancialfactor WindL2indicator WindIncomeMatrix WindTop10activestocks WindConsensusrollingFY0 WindProfitnoticeMatrix WindConsensusrollingFTTM WindYield WindMoneyflow WindConsensusrollingFY2 WindAnnfinancialindicatorMatrix WindIntensitytrend WindMargintrade WindConsensusrollingFY1 WindTtmhisMatrix"/>
+        <Data id="Intervalstats7daily Intervaldata1minkurtall Intervalstatsbidaskstddaily Intervaldatasummem1 Intervalstatsdaily Intervaldata5mindeltastdnoon Intervaldata5mindeltastdall Intervaldata5mindeltaskewlast     Intervalstats12meannoon Intervalstatsmorning Intervaldata5minskewnoon Intervalstatsbidaskmorning Intervalstats7ameannoon Intervalstatsbidask3adaily Intervalstatsbidaskdaily Intervaldata5mindeltastdfirst Intervalstatsmeanfirst     Intervalstats2meannoon Intervalextendstatsmeanall Intervaldata1minfirst5 Intervalstatsmeanlast Intervaldata1mindeltastdlast Intervalstatsskewall Intervalstats12daily Intervaldata5minmeannoon Intervaldatasummem2     Intervaldata1minskewall Intervaldata5mindeltastdlast Intervalstatsmeanall Intervalstatsstdnoon Intervalstats2daily Intervalstatsbidaskmultdaily Intervalstats7bmeannoon Intervaldata5minstdall Intervaldata1mindeltastdfirst     Intervaldata5mindeltamaxminall Intervalqueuestatsmeanall Intervaldata5mindeltairlast Intervalreturncorr2 Intervaldata1mindeltastdall Intervalstatsbidaskcorrdaily Intervalstatsbidask5daily Intervaldata5minstdnoon     Intervaldata1mindeltastdnoon Intervalstatsskewpall Intervalstats12meanfirst Intervaldata1minstdnoon Intervalstatsmeannoon Intervaldata5mindeltairnoon Intervalstats13daily Intervalstatsstdall Intervaldata5minmeanfirst      Intervaldata1mindeltaminmaxall Intervalstats11daily "/>
+
+        <Data id="Intervalopenstats1 Intervalopenstats2 Intervalopenstats3 Intervalopenstats4" intervalSteps="61" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="WindIndustry GROUPHSZZ EastmoneyIndustry"/>
+        <Data id="Intervalstats2" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalstatsbidask5" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervaldetailbidsplit" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalextendstats2" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalorderstats" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalordersnapshotprice" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalstats7b" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervaldetailsellret" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervaldetailupdownstats" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalstatsbidask" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervaldetailedstats" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalqueuestats" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="IntervalstatsGroupreturn" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervaldetailbuyret" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalstats" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalstats12" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalstatsbidask3a" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervaldetailasksplit" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalstatsbidask4" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalextendstats" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalstats13" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervaldetailedstats2" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="IntervalData5min" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalbidaskextendstats" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalbidask12stats" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalbidask12statsb" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervaldetailhlstats1" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalfullorderbook" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="IntervalData" intervalSteps="67" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervaldetailcancelstats" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervaldetailaskcancelstats" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervaldetailbidcancelstats" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalsnapshotl2stats" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervaldetailbidaskcrossstats" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalorderbidpriceunequal Intervalorderaskpriceunequal" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalqueuehlprice" intervalSteps="49" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalopenvolclockstats1 " intervalSteps="15" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalqueuestats1min" intervalSteps="241" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalextendstats1min" intervalSteps="241" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="IntervalData1min" intervalSteps="241" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalstats1min" intervalSteps="241" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <Data id="Intervalorderstats1min" intervalSteps="241" intraday="true" path="${MODULES}/DataLoadcache.so"/>
+        <!-- special data(s) -->
+        <!-- intraday data-->
+        <!-- in-memory data, adjprices can use upto di-1 in alpha -->
+        <Data id="AdjPrices" path="${MODULES}/DataAdjprices.so"/>
+    </Datasets>
+    <!--modules including: Alphas, Operations, combos, calculations, portfolios -->
+    <Modules>
+        <!-- Alphas -->
+        <AlphaModule id="AlphaSimple" path="${MODULES}/AlphaSimple.so"/>
+        <AlphaModule id="ExprLoader" path="${MODULES}/ExprLoader.so"/>
+        <AlphaModule id="AlphaCopy" path="${MODULES}/AlphaCopy.so"/>
+        <!-- Operation modules -->
+        <!-- offical operators, no need to set path, don't change name  -->
+        <OpModule id="OpPow OpGroupNeut OpDecay OpRiskNeut OpEMADecay OpHump OpNorm OpTruncate OpTradeConstraint OpVectorNeut OpWinsorize OpGroupNeutFast OpNio2"/>
+        <!-- customer op, need set path -->
+        <OpModule id="OpPower2" path="${MODULES}/OpPow.so"/>
+        <OpModule id="OpMergeGroupNeut" path="${PRODUCTIONPATH}/OpMergeGroupNeut.py"/>
+        <OpModuleExt id="OpPercentile" path="${PYEXTPATH}/modules/liboppercentile.so"/>
+        <OpModuleExt id="OpNeutralize" path="${PYEXTPATH}/modules/libopneutralize.so"/>
+        <OpModuleExt id="OpSingleMultiple" path="${PYEXTPATH}/modules/libopsinglemultiple.so"/>
+        <OpModuleExt id="OpLongShortPow" path="${PYEXTPATH}/modules/liboplongshortpower.so"/>
+        <OpModuleExt id="OpSplitRank" path="${PYEXTPATH}/modules/libopsplitrank.so"/>
+        <OpModuleExt id="OpTsrank" path="${PYEXTPATH}/modules/liboptsrank.so"/>
+        <OpModuleExt id="OpTszscore" path="${PYEXTPATH}/modules/liboptszscore.so"/>
+        <OpModuleExt id="OpGroupPower" path="${PYEXTPATH}/modules/libopgrouppower.so"/>
+        <OpModuleExt id="OpHandleTradestatus" path="${PYEXTPATH}/modules/libophandletradestatus.so"/>
+        <OpModuleExt id="OpCanonize" path="${PYEXTPATH}/modules/libopcanonize.so"/>
+        <OpModuleExt id="OpQuantile" path="${PYEXTPATH}/modules/libopquantile.so"/>
+        <OpModuleExt id="OpValueAdd" path="${PYEXTPATH}/modules/libopportvalueadd.so"/>
+        <OpModuleExt id="OpPercentile2" path="${PYEXTPATH}/modules/liboppercentile2.so"/>
+        <!-- Combo modules -->
+        <ComboModule id="ComboSimple" path="${MODULES}/ComboSimple.so"/>
+        <ComboModule id="ComboSimple2" path="${PRODUCTIONPATH}/ComboSimple.py"/>
+        <ComboModule id="ComboSelectBest" path="${MODULES}/ComboSelectBest.so"/>
+        <!-- Calculation modules -->
+        <CalcModule id="CalcSimple" path="${MODULES}/CalcSimple.so"/>
+        <CalcModule id="CalcIndex" path="${MODULES}/CalcIndex.so"/>
+        <CalcModuleExt id="CalcMultiRet" path="${PYEXTPATH}/modules/libcalcmultiret.so"/>
+        <!-- Portfolio modules -->
+        <PortModule id="PortSimple" path="${MODULES}/PortSimple.so"/>
+        <PortModule id="PortExprSimple" path="${MODULES}/PortExprSimple.so"/>
+        <OpModuleExt id="OpVisualize" path="/dat/pysimrelease/pysim-4.0.0/tools/visualize/libalphaopanalyst.so"/>
+    </Modules>
+    <Port size="20e6" mId="PortSimple" id="MyPort" homecurrency="CNY" comboId="ComboSimple">
+        <Calc mId="CalcSimple" pnlDir="./pnl" sellPrice="Snapstats.vwap" buyPrice="Snapstats.vwap"/>
+
+        <Alpha mId="ExprLoader" id="zx3120700" uId="AshareFiltered" size="20e6" delay="0" window="1" snaptime="${SNAPTIME}" snapcount="${SNAPCOUNT2}" exprname="b0">
+            <AlphaInfo category="wave" author="xiongzhang" birthday="20201113" instrument="equity" region="chn"/>
+            <!--            <Op mId="OpPow" exp="1"/>-->
+            <Op mId="OpDecay" days="12" dense="false"/>
+            <Op mId="OpPow" exp="1"/>
+            <Op mId="OpGroupNeut" group="WindIndustry.wind1"/>
+            <Op mId="OpPow" exp="1"/>
+            <Op factors="roll_vwap:0 roll.returns:0 roll.returns5:0 roll.returns20:0 roll.tvr_5:0 roll.liq_5:0 roll.vola_5:0 roll.stdc_5:0 cap:1 Intervalstatsdaily.std_vol:1" groups="market:1" mId="OpNeutralize" rankMode="1"/>
+            <Op mId="OpTruncate" maxPercent="0.1"/>
+            <Op mId="OpNio2" scale2book="true" dumpPath="./zx3120700" dumpName="Ashare_v2_${SNAPTIME}" delay="0" dateoffset="1024"/>
+        </Alpha>
+
+
+    </Port>
+    <PortExpr mId="PortExprSimple" id="MyPort3" pnlDir="./pnl" uId="AshareFiltered">
+
+        <Expr name="b0" expression="(a0)" delay="0" doScale="true" doStats="false"/>
+
+    </PortExpr>
+</PySim>
+

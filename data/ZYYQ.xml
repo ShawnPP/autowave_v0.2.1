@@ -1,0 +1,110 @@
+<cqfunds>
+ 
+ 
+    <stockdata>
+        <dataname datapath="ZYYQConrating" datasize="1*4096" datastorage="48.00M">ZYYQConrating.CON_RATING_STRENGTH</dataname>
+        <dataname datapath="ZYYQConrating" datasize="1*4096" datastorage="48.00M">ZYYQConrating.TMSTAMP</dataname>
+    </stockdata>
+ 
+ 
+    <stockdata>
+        <dataname datapath="ZYYQConforecastroll" datasize="1*4096" datastorage="48.00M">ZYYQConforecastroll.CON_ROE_ROLL</dataname>
+        <dataname datapath="ZYYQConforecastroll" datasize="1*4096" datastorage="48.00M">ZYYQConforecastroll.CON_NPCGRATE_2Y_ROLL</dataname>
+        <dataname datapath="ZYYQConforecastroll" datasize="1*4096" datastorage="48.00M">ZYYQConforecastroll.CON_OR_YOY_ROLL</dataname>
+        <dataname datapath="ZYYQConforecastroll" datasize="1*4096" datastorage="48.00M">ZYYQConforecastroll.CON_PB_ROLL</dataname>
+        <dataname datapath="ZYYQConforecastroll" datasize="1*4096" datastorage="48.00M">ZYYQConforecastroll.CON_NP_ROLL</dataname>
+        <dataname datapath="ZYYQConforecastroll" datasize="1*4096" datastorage="48.00M">ZYYQConforecastroll.CON_PE_ROLL</dataname>
+        <dataname datapath="ZYYQConforecastroll" datasize="1*4096" datastorage="48.00M">ZYYQConforecastroll.CON_PS_ROLL</dataname>
+        <dataname datapath="ZYYQConforecastroll" datasize="1*4096" datastorage="48.00M">ZYYQConforecastroll.CON_EPS_ROLL</dataname>
+        <dataname datapath="ZYYQConforecastroll" datasize="1*4096" datastorage="48.00M">ZYYQConforecastroll.CON_NA_ROLL</dataname>
+        <dataname datapath="ZYYQConforecastroll" datasize="1*4096" datastorage="48.00M">ZYYQConforecastroll.CON_OR_ROLL</dataname>
+        <dataname datapath="ZYYQConforecastroll" datasize="1*4096" datastorage="48.00M">ZYYQConforecastroll.CON_PEG_ROLL</dataname>
+        <dataname datapath="ZYYQConforecastroll" datasize="1*4096" datastorage="48.00M">ZYYQConforecastroll.CON_NP_YOY_ROLL</dataname>
+    </stockdata>
+ 
+    <stockdata>
+        <dataname datapath="ZYYQConforecastFY0" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY0.CON_NPGRATE_1W</dataname>
+        <dataname datapath="ZYYQConforecastFY0" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY0.CON_PEG</dataname>
+        <dataname datapath="ZYYQConforecastFY0" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY0.CON_NPGRATE_52W</dataname>
+        <dataname datapath="ZYYQConforecastFY0" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY0.CON_NPGRATE_4W</dataname>
+        <dataname datapath="ZYYQConforecastFY0" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY0.CON_NPGRATE_13W</dataname>
+        <dataname datapath="ZYYQConforecastFY0" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY0.CON_OR_YOY</dataname>
+        <dataname datapath="ZYYQConforecastFY0" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY0.CON_NPCGRATE_2Y</dataname>
+        <dataname datapath="ZYYQConforecastFY0" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY0.CON_NA</dataname>
+        <dataname datapath="ZYYQConforecastFY0" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY0.CON_PB</dataname>
+        <dataname datapath="ZYYQConforecastFY0" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY0.CON_NPGRATE_26W</dataname>
+        <dataname datapath="ZYYQConforecastFY0" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY0.CON_NP_YOY</dataname>
+        <dataname datapath="ZYYQConforecastFY0" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY0.CON_NP</dataname>
+        <dataname datapath="ZYYQConforecastFY0" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY0.CON_OR</dataname>
+        <dataname datapath="ZYYQConforecastFY0" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY0.CON_ROE</dataname>
+        <dataname datapath="ZYYQConforecastFY0" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY0.CON_PE</dataname>
+        <dataname datapath="ZYYQConforecastFY0" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY0.CON_PS</dataname>
+        <dataname datapath="ZYYQConforecastFY0" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY0.CON_EPS</dataname>
+    </stockdata>
+ 
+    <stockdata>
+        <dataname datapath="ZYYQConforecastFY1" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY1.CON_NPGRATE_52W</dataname>
+        <dataname datapath="ZYYQConforecastFY1" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY1.CON_PEG</dataname>
+        <dataname datapath="ZYYQConforecastFY1" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY1.CON_NP</dataname>
+        <dataname datapath="ZYYQConforecastFY1" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY1.CON_PS</dataname>
+        <dataname datapath="ZYYQConforecastFY1" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY1.CON_OR_YOY</dataname>
+        <dataname datapath="ZYYQConforecastFY1" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY1.CON_OR</dataname>
+        <dataname datapath="ZYYQConforecastFY1" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY1.CON_NPCGRATE_2Y</dataname>
+        <dataname datapath="ZYYQConforecastFY1" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY1.CON_NPGRATE_4W</dataname>
+        <dataname datapath="ZYYQConforecastFY1" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY1.CON_ROE</dataname>
+        <dataname datapath="ZYYQConforecastFY1" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY1.CON_NPGRATE_26W</dataname>
+        <dataname datapath="ZYYQConforecastFY1" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY1.CON_PB</dataname>
+        <dataname datapath="ZYYQConforecastFY1" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY1.CON_EPS</dataname>
+        <dataname datapath="ZYYQConforecastFY1" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY1.CON_NPGRATE_1W</dataname>
+        <dataname datapath="ZYYQConforecastFY1" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY1.CON_NP_YOY</dataname>
+        <dataname datapath="ZYYQConforecastFY1" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY1.CON_NPGRATE_13W</dataname>
+        <dataname datapath="ZYYQConforecastFY1" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY1.CON_PE</dataname>
+        <dataname datapath="ZYYQConforecastFY1" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY1.CON_NA</dataname>
+    </stockdata>
+ 
+    <stockdata>
+        <dataname datapath="ZYYQConforecastFY3" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY3.CON_PS</dataname>
+        <dataname datapath="ZYYQConforecastFY3" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY3.CON_ROE</dataname>
+        <dataname datapath="ZYYQConforecastFY3" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY3.CON_NP</dataname>
+        <dataname datapath="ZYYQConforecastFY3" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY3.CON_NA</dataname>
+        <dataname datapath="ZYYQConforecastFY3" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY3.CON_PE</dataname>
+        <dataname datapath="ZYYQConforecastFY3" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY3.CON_NPGRATE_1W</dataname>
+        <dataname datapath="ZYYQConforecastFY3" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY3.CON_NPCGRATE_2Y</dataname>
+        <dataname datapath="ZYYQConforecastFY3" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY3.CON_OR</dataname>
+        <dataname datapath="ZYYQConforecastFY3" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY3.CON_NPGRATE_13W</dataname>
+        <dataname datapath="ZYYQConforecastFY3" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY3.CON_NP_YOY</dataname>
+        <dataname datapath="ZYYQConforecastFY3" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY3.CON_NPGRATE_4W</dataname>
+        <dataname datapath="ZYYQConforecastFY3" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY3.CON_OR_YOY</dataname>
+        <dataname datapath="ZYYQConforecastFY3" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY3.CON_PEG</dataname>
+        <dataname datapath="ZYYQConforecastFY3" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY3.CON_EPS</dataname>
+        <dataname datapath="ZYYQConforecastFY3" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY3.CON_PB</dataname>
+        <dataname datapath="ZYYQConforecastFY3" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY3.CON_NPGRATE_26W</dataname>
+        <dataname datapath="ZYYQConforecastFY3" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY3.CON_NPGRATE_52W</dataname>
+    </stockdata>
+    <stockdata>
+        <dataname datapath="ZYYQConforecastFY2" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY2.CON_PE</dataname>
+        <dataname datapath="ZYYQConforecastFY2" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY2.CON_ROE</dataname>
+        <dataname datapath="ZYYQConforecastFY2" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY2.CON_NPGRATE_52W</dataname>
+        <dataname datapath="ZYYQConforecastFY2" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY2.CON_NPGRATE_13W</dataname>
+        <dataname datapath="ZYYQConforecastFY2" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY2.CON_NPGRATE_4W</dataname>
+        <dataname datapath="ZYYQConforecastFY2" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY2.CON_NP</dataname>
+        <dataname datapath="ZYYQConforecastFY2" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY2.CON_NA</dataname>
+        <dataname datapath="ZYYQConforecastFY2" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY2.CON_PB</dataname>
+        <dataname datapath="ZYYQConforecastFY2" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY2.CON_PS</dataname>
+        <dataname datapath="ZYYQConforecastFY2" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY2.CON_EPS</dataname>
+        <dataname datapath="ZYYQConforecastFY2" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY2.CON_OR</dataname>
+        <dataname datapath="ZYYQConforecastFY2" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY2.CON_OR_YOY</dataname>
+        <dataname datapath="ZYYQConforecastFY2" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY2.CON_NP_YOY</dataname>
+        <dataname datapath="ZYYQConforecastFY2" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY2.CON_NPGRATE_26W</dataname>
+        <dataname datapath="ZYYQConforecastFY2" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY2.CON_NPGRATE_1W</dataname>
+        <dataname datapath="ZYYQConforecastFY2" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY2.CON_PEG</dataname>
+        <dataname datapath="ZYYQConforecastFY2" datasize="1*4096" datastorage="48.00M">ZYYQConforecastFY2.CON_NPCGRATE_2Y</dataname>
+    </stockdata>
+ 
+ 
+    <stockdata>
+        <dataname datapath="ZYYQConforecastPTG" datasize="1*4096" datastorage="48.00M">ZYYQConforecastPTG.CON_TARGET_PRICE</dataname>
+    </stockdata>
+ 
+ 
+</cqfunds>

@@ -1,0 +1,21 @@
+<cqfunds>
+    <stockdata>
+        <dataname datapath="Intervaldetailhlstats1" datasize="49*4096" datastorage="1.04G">Intervaldetailhlstats1.phighPRate</dataname>
+        <dataname datapath="Intervaldetailhlstats1" datasize="49*4096" datastorage="1.04G">Intervaldetailhlstats1.plowPRate</dataname>
+        <dataname datapath="Intervaldetailhlstats1" datasize="49*4096" datastorage="1.04G">Intervaldetailhlstats1.num_plowP</dataname>
+        <dataname datapath="Intervaldetailhlstats1" datasize="49*4096" datastorage="1.04G">Intervaldetailhlstats1.perbuy_phighP</dataname>
+        <dataname datapath="Intervaldetailhlstats1" datasize="49*4096" datastorage="1.04G">Intervaldetailhlstats1.pervol_phighP</dataname>
+        <dataname datapath="Intervaldetailhlstats1" datasize="49*4096" datastorage="1.04G">Intervaldetailhlstats1.perbuy_plowP</dataname>
+        <dataname datapath="Intervaldetailhlstats1" datasize="49*4096" datastorage="1.04G">Intervaldetailhlstats1.num_phighP</dataname>
+        <dataname datapath="Intervaldetailhlstats1" datasize="49*4096" datastorage="1.04G">Intervaldetailhlstats1.pervol_plowP</dataname>
+    </stockdata>
+        <stockdata>
+        <dataname datapath="Intervaldetailcancelstats" datastorage="1.30G" datasize="49*5210">Intervaldetailcancelstats.skewvolume</dataname>
+        <dataname datapath="Intervaldetailcancelstats" datastorage="1.30G" datasize="49*5210">Intervaldetailcancelstats.vbuy</dataname>
+        <dataname datapath="Intervaldetailcancelstats" datastorage="1.30G" datasize="49*5210">Intervaldetailcancelstats.vlargesell</dataname>
+        <dataname datapath="Intervaldetailcancelstats" datastorage="1.30G" datasize="49*5210">Intervaldetailcancelstats.numsell</dataname>
+        <dataname datapath="Intervaldetailcancelstats" datastorage="1.30G" datasize="49*5210">Intervaldetailcancelstats.vsell</dataname>
+        <dataname datapath="Intervaldetailcancelstats" datastorage="1.30G" datasize="49*5210">Intervaldetailcancelstats.vlargebuy</dataname>
+        <dataname datapath="Intervaldetailcancelstats" datastorage="1.30G" datasize="49*5210">Intervaldetailcancelstats.numbuy</dataname>
+    </stockdata>
+    </cqfunds>

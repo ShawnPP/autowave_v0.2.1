@@ -1,0 +1,94 @@
+<cqfunds>
+    <stockdata>
+        <dataname datapath="SuperEventfrequencyLow" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyLow.six_month_1days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyLow" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyLow.three_month_3days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyLow" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyLow.six_month_5days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyLow" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyLow.six_month_event_number</dataname>
+        <dataname datapath="SuperEventfrequencyLow" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyLow.three_month_event_number</dataname>
+        <dataname datapath="SuperEventfrequencyLow" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyLow.one_month_event_number</dataname>
+        <dataname datapath="SuperEventfrequencyLow" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyLow.six_month_3days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyLow" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyLow.six_month_3days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyLow" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyLow.one_month_5days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyLow" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyLow.three_month_1days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyLow" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyLow.three_month_3days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyLow" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyLow.three_month_5days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyLow" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyLow.three_month_1days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyLow" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyLow.one_month_1days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyLow" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyLow.six_month_1days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyLow" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyLow.six_month_5days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyLow" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyLow.three_month_5days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyLow" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyLow.one_month_3days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyLow" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyLow.one_month_1days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyLow" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyLow.one_month_5days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyLow" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyLow.one_month_3days_after_ret</dataname>
+    </stockdata>
+    <stockdata>
+        <dataname datapath="SuperEventfrequencyMiddle" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyMiddle.three_month_event_number</dataname>
+        <dataname datapath="SuperEventfrequencyMiddle" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyMiddle.six_month_5days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyMiddle" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyMiddle.one_month_3days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyMiddle" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyMiddle.one_month_5days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyMiddle" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyMiddle.six_month_5days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyMiddle" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyMiddle.three_month_3days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyMiddle" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyMiddle.one_month_5days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyMiddle" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyMiddle.one_month_1days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyMiddle" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyMiddle.one_month_1days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyMiddle" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyMiddle.three_month_1days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyMiddle" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyMiddle.one_month_event_number</dataname>
+        <dataname datapath="SuperEventfrequencyMiddle" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyMiddle.six_month_1days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyMiddle" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyMiddle.three_month_3days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyMiddle" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyMiddle.three_month_5days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyMiddle" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyMiddle.three_month_5days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyMiddle" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyMiddle.three_month_1days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyMiddle" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyMiddle.six_month_3days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyMiddle" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyMiddle.six_month_event_number</dataname>
+        <dataname datapath="SuperEventfrequencyMiddle" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyMiddle.one_month_3days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyMiddle" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyMiddle.six_month_3days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyMiddle" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyMiddle.six_month_1days_after_ret</dataname>
+    </stockdata>
+    <stockdata>
+        <dataname datapath="SuperEventfrequencyHigh" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyHigh.six_month_5days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyHigh" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyHigh.three_month_5days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyHigh" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyHigh.one_month_1days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyHigh" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyHigh.six_month_1days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyHigh" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyHigh.six_month_5days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyHigh" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyHigh.one_month_5days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyHigh" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyHigh.six_month_1days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyHigh" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyHigh.one_month_5days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyHigh" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyHigh.three_month_1days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyHigh" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyHigh.three_month_1days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyHigh" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyHigh.one_month_event_number</dataname>
+        <dataname datapath="SuperEventfrequencyHigh" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyHigh.six_month_3days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyHigh" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyHigh.three_month_5days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyHigh" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyHigh.three_month_event_number</dataname>
+        <dataname datapath="SuperEventfrequencyHigh" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyHigh.three_month_3days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyHigh" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyHigh.one_month_1days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyHigh" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyHigh.one_month_3days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyHigh" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyHigh.three_month_3days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyHigh" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyHigh.six_month_event_number</dataname>
+        <dataname datapath="SuperEventfrequencyHigh" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyHigh.six_month_3days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyHigh" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyHigh.one_month_3days_before_ret</dataname>
+    </stockdata>
+    <stockdata>
+        <dataname datapath="SuperEventfrequencyPeriod" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyPeriod.one_month_5days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyPeriod" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyPeriod.one_month_3days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyPeriod" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyPeriod.three_month_3days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyPeriod" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyPeriod.three_month_5days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyPeriod" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyPeriod.one_month_5days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyPeriod" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyPeriod.three_month_event_number</dataname>
+        <dataname datapath="SuperEventfrequencyPeriod" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyPeriod.six_month_3days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyPeriod" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyPeriod.six_month_3days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyPeriod" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyPeriod.three_month_1days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyPeriod" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyPeriod.six_month_1days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyPeriod" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyPeriod.three_month_1days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyPeriod" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyPeriod.six_month_1days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyPeriod" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyPeriod.three_month_5days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyPeriod" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyPeriod.one_month_event_number</dataname>
+        <dataname datapath="SuperEventfrequencyPeriod" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyPeriod.three_month_3days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyPeriod" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyPeriod.six_month_5days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyPeriod" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyPeriod.six_month_5days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyPeriod" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyPeriod.one_month_3days_after_ret</dataname>
+        <dataname datapath="SuperEventfrequencyPeriod" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyPeriod.six_month_event_number</dataname>
+        <dataname datapath="SuperEventfrequencyPeriod" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyPeriod.one_month_1days_before_ret</dataname>
+        <dataname datapath="SuperEventfrequencyPeriod" datasize="1*4096" datastorage="48.00M">SuperEventfrequencyPeriod.one_month_1days_after_ret</dataname>
+    </stockdata>
+</cqfunds>

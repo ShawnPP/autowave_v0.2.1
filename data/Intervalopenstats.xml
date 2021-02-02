@@ -1,0 +1,44 @@
+<cqfunds>
+ <stockdata>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.asksize2</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.largeorderratio</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.sum_vol</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.totalbidsize</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.mean_buyOrderNum</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.diff_bidask_pwv</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.per_buy</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.asksize510</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.wask</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.vwap</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.mean_singleBuyAmount</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.std_ret</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.max_vol</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.mean_singleOrderAmount</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.bidsize2</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.mean_sellOrderNum</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.ask2</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.mean_buyOrderAmount</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.vwap_p</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.bid1</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.mean_singleSellAmount</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.totalasksize</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.mean_sellOrderAmount</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.per_pGoUp</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.ask1</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.buy_vol</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.std_p</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.volume</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.price</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.std_vol</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.num_trade</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.buyorderskew</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.num_vol100</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.bidsize1</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.wbid</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.bid2</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.mean_orderSize</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.bidsize510</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.asksize1</dataname>
+        <dataname datapath="Intervalopenstats1" datasize="61*4096" datastorage="1.30G">Intervalopenstats1.sellorderskew</dataname>
+    </stockdata>
+</cqfunds>

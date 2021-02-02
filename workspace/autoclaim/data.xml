@@ -1,0 +1,18 @@
+<cqfunds>
+     <stockdata>
+        <dataname datapath="Intervaldetailbidaskcrossstats" datastorage="1.30G" datasize="49*5210">Intervaldetailbidaskcrossstats.stdask1buy</dataname>
+        <dataname datapath="Intervaldetailbidaskcrossstats" datastorage="1.30G" datasize="49*5210">Intervaldetailbidaskcrossstats.sumbid1sell</dataname>
+        <dataname datapath="Intervaldetailbidaskcrossstats" datastorage="1.30G" datasize="49*5210">Intervaldetailbidaskcrossstats.sumask1buy</dataname>
+        <dataname datapath="Intervaldetailbidaskcrossstats" datastorage="1.30G" datasize="49*5210">Intervaldetailbidaskcrossstats.stdbid1sell</dataname>
+        <dataname datapath="Intervaldetailbidaskcrossstats" datastorage="1.30G" datasize="49*5210">Intervaldetailbidaskcrossstats.skewbid1sell</dataname>
+        <dataname datapath="Intervaldetailbidaskcrossstats" datastorage="1.30G" datasize="49*5210">Intervaldetailbidaskcrossstats.skewask1buy</dataname>
+    </stockdata>
+    <Data id="Intervaldetailbidaskcrossstats">
+        <name size="1.30G" intervalStep="49" suffix="N,250880f">Intervaldetailbidaskcrossstats.stdask1buy</name>
+        <name size="1.30G" intervalStep="49" suffix="N,250880f">Intervaldetailbidaskcrossstats.sumbid1sell</name>
+        <name size="1.30G" intervalStep="49" suffix="N,250880f">Intervaldetailbidaskcrossstats.sumask1buy</name>
+        <name size="1.30G" intervalStep="49" suffix="N,250880f">Intervaldetailbidaskcrossstats.stdbid1sell</name>
+        <name size="1.30G" intervalStep="49" suffix="N,250880f">Intervaldetailbidaskcrossstats.skewbid1sell</name>
+        <name size="1.30G" intervalStep="49" suffix="N,250880f">Intervaldetailbidaskcrossstats.skewask1buy</name>
+    </Data>
+</cqfunds>

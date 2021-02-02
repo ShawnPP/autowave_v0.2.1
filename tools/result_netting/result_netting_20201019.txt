@@ -1,0 +1,338 @@
+/dropbox/xiongzhang/addvalue/ GG
+GG0-2020-10-10-165816.result
+Worst neutral-meta return:	interval	-7.70768900614754%
+  Netting return:	8.62741031716178%
+  Netting return long/equal short:	-6.29505348254338%
+  Netting return long/equal short2:	1.19277734485655%
+  divcorr weight:	0.00388664%
+************************************************************************************************************************
+GG0-2020-10-10-165849.result
+Worst neutral-meta return:	interval4	0%
+  Netting return:	2.238607340974%
+  Netting return long/equal short:	1.72411097264241%
+  Netting return long/equal short2:	-0.560665966287153%
+  divcorr weight:	0%
+************************************************************************************************************************
+GG0-2020-10-10-165901.result
+Worst neutral-meta return:	interval3	0%
+  Netting return:	2.238607340974%
+  Netting return long/equal short:	1.72411097264241%
+  Netting return long/equal short2:	-0.560665966287153%
+  divcorr weight:	0%
+************************************************************************************************************************
+GG0-2020-10-10-165934.result
+Worst neutral-meta return:	interval3	0%
+  Netting return:	2.238607340974%
+  Netting return long/equal short:	1.72411097264241%
+  Netting return long/equal short2:	-0.560665966287153%
+  divcorr weight:	0%
+  optimize weight:	0.0210592765%
+************************************************************************************************************************
+GG0-2020-10-10-170023.result
+Worst neutral-meta return:	interval4	-0.736127802100408%
+  Netting return:	2.97696705265178%
+  Netting return long/equal short:	-13.2421328976733%
+  Netting return long/equal short2:	-5.07564278983522%
+  divcorr weight:	0.0055005%
+  optimize weight:	0.0147608%
+************************************************************************************************************************
+GG0-2020-10-10-170221.result
+Worst neutral-meta return:	interval	-3.51119633913934%
+  Netting return:	9.39624842965801%
+  Netting return long/equal short:	-6.46354927563607%
+  Netting return long/equal short2:	1.24799570671242%
+  divcorr weight:	0.003669935%
+************************************************************************************************************************
+GG0-2020-10-10-170310.result
+Worst neutral-meta return:	funda	0%
+  Netting return:	2.238607340974%
+  Netting return long/equal short:	1.72411097264241%
+  Netting return long/equal short2:	-0.560665966287153%
+  divcorr weight:	0%
+************************************************************************************************************************
+GG0-2020-10-10-170325.result
+Worst neutral-meta return:	analyst	-235.293150925926%
+  Netting return:	-10.9145448627117%
+  Netting return long/equal short:	-5.6053090042193%
+  Netting return long/equal short2:	-0.468592562105629%
+************************************************************************************************************************
+GG0-2020-10-10-170339.result
+Worst neutral-meta return:	interval4	-87.0171554347826%
+  Netting return:	0.29311325042292%
+  Netting return long/equal short:	-3.1328141146301%
+  Netting return long/equal short2:	-3.15171838737556%
+  divcorr weight:	0%
+  optimize weight:	-0.00210006%
+************************************************************************************************************************
+GG0-2020-10-10-170355.result
+Worst neutral-meta return:	funda	-6.41310169057377%
+  Netting return:	-0.550560598513388%
+  Netting return long/equal short:	-3.2692501268753%
+  Netting return long/equal short2:	4.12780233467639%
+************************************************************************************************************************
+GG0-2020-10-10-170412.result
+Worst neutral-meta return:	funda	-4.49329120081967%
+  Netting return:	-2.30289170691586%
+  Netting return long/equal short:	-2.00593952482943%
+  Netting return long/equal short2:	1.97666388635681%
+  divcorr weight:	0%
+************************************************************************************************************************
+GG0-2020-10-10-170434.result
+Worst neutral-meta return:	interval4	0.927061993545083%
+  Netting return:	3.96988914325558%
+  Netting return long/equal short:	-14.5409482473341%
+  Netting return long/equal short2:	7.6893377445714%
+  divcorr weight:	0.00644112%
+  optimize weight:	0.00830029%
+************************************************************************************************************************
+GG0-2020-10-10-170627.result
+Worst neutral-meta return:	funda	-9.34164236680328%
+  Netting return:	-0.0603144586196058%
+  Netting return long/equal short:	-1.55843592885244%
+  Netting return long/equal short2:	8.23203116755523%
+  divcorr weight:	0%
+  optimize weight:	0.0773745%
+************************************************************************************************************************
+GG0-2020-10-10-170644.result
+Worst neutral-meta return:	interval3	0%
+  Netting return:	2.238607340974%
+  Netting return long/equal short:	1.72411097264241%
+  Netting return long/equal short2:	-0.560665966287153%
+  divcorr weight:	0%
+************************************************************************************************************************
+GG0-2020-10-10-170732.result
+Worst neutral-meta return:	funda	0%
+  Netting return:	2.238607340974%
+  Netting return long/equal short:	1.72411097264241%
+  Netting return long/equal short2:	-0.560665966287153%
+  divcorr weight:	0%
+  optimize weight:	0.0210592765%
+************************************************************************************************************************
+GG0-2020-10-10-170746.result
+Worst neutral-meta return:	interval4	0%
+  Netting return:	2.238607340974%
+  Netting return long/equal short:	1.72411097264241%
+  Netting return long/equal short2:	-0.560665966287153%
+  divcorr weight:	0%
+************************************************************************************************************************
+GG0-2020-10-10-170802.result
+Worst neutral-meta return:	interval	-5.4859806454918%
+  Netting return:	-2.63128877264609%
+  Netting return long/equal short:	-1.0254606282688%
+  Netting return long/equal short2:	-1.56114036333448%
+  divcorr weight:	0%
+************************************************************************************************************************
+GG0-2020-10-10-170819.result
+Worst neutral-meta return:	interval4	-3.75144411577869%
+  Netting return:	-3.65910493427898%
+  Netting return long/equal short:	-8.64499727996507%
+  Netting return long/equal short2:	3.7922772308252%
+  divcorr weight:	0%
+  optimize weight:	0.0365551%
+************************************************************************************************************************
+GG0-2020-10-10-170837.result
+Worst neutral-meta return:	funda	-1.90214493852459%
+  Netting return:	2.61053370540112%
+  Netting return long/equal short:	8.43062338393397%
+  Netting return long/equal short2:	6.89849084972964%
+  divcorr weight:	0%
+  optimize weight:	0.07949615%
+************************************************************************************************************************
+GG0-2020-10-10-170855.result
+Worst neutral-meta return:	funda	-6.73397904378893%
+  Netting return:	-0.621548338593287%
+  Netting return long/equal short:	6.91197104495416%
+  Netting return long/equal short2:	5.23329970237502%
+  divcorr weight:	0%
+************************************************************************************************************************
+GG0-2020-10-10-170915.result
+Worst neutral-meta return:	interval4	4.36666153278689%
+  Netting return:	4.7849471381429%
+  Netting return long/equal short:	-9.37907750751179%
+  Netting return long/equal short2:	5.23934597282145%
+  divcorr weight:	0.00315458%
+************************************************************************************************************************
+GG0-2020-10-10-171018.result
+Worst neutral-meta return:	interval4	5.11237081967213%
+  Netting return:	5.13519275973772%
+  Netting return long/equal short:	-11.7545976803377%
+  Netting return long/equal short2:	4.15589994648592%
+  divcorr weight:	0.002460715%
+  optimize weight:	-0.03439985%
+************************************************************************************************************************
+GG0-2020-10-10-171123.result
+Worst neutral-meta return:	interval4	3.31360203278689%
+  Netting return:	4.58796971327031%
+  Netting return long/equal short:	-9.96721040831225%
+  Netting return long/equal short2:	5.25083320842504%
+  divcorr weight:	0.002046245%
+  optimize weight:	0.009111565%
+************************************************************************************************************************
+GG0-2020-10-10-171225.result
+Worst neutral-meta return:	interval4	4.64706134221312%
+  Netting return:	5.54157803652246%
+  Netting return long/equal short:	-10.27606124395%
+  Netting return long/equal short2:	7.86303071690365%
+  divcorr weight:	0.001847135%
+************************************************************************************************************************
+GG0-2020-10-10-171329.result
+Worst neutral-meta return:	interval4	2.3715818545082%
+  Netting return:	6.80032723834449%
+  Netting return long/equal short:	-2.91787016963749%
+  Netting return long/equal short2:	10.8808785819897%
+  divcorr weight:	0.02185015%
+************************************************************************************************************************
+GG0-2020-10-10-171437.result
+Worst neutral-meta return:	interval4	-2.49562260758197%
+  Netting return:	-2.81451065862893%
+  Netting return long/equal short:	-6.82047676248933%
+  Netting return long/equal short2:	3.70737836451687%
+  divcorr weight:	0.03639015%
+  optimize weight:	0.02642675%
+************************************************************************************************************************
+GG0-2020-10-10-171455.result
+Worst neutral-meta return:	analyst	0%
+  Netting return:	0%
+  Netting return long/equal short:	0%
+  Netting return long/equal short2:	0%
+************************************************************************************************************************
+GG0-2020-10-13-093446.result
+Worst neutral-meta return:	interval3	2.17703332684426%
+  Netting return:	2.91405747105307%
+  Netting return long/equal short:	-6.48889159049738%
+  Netting return long/equal short2:	2.82584268422603%
+  divcorr weight:	0.0278779%
+  optimize weight:	0.0185897%
+************************************************************************************************************************
+GG0-2020-10-13-093653.result
+Worst neutral-meta return:	interval3	1.57552464754098%
+  Netting return:	2.33957410399501%
+  Netting return long/equal short:	-8.78486506460775%
+  Netting return long/equal short2:	1.38928105726271%
+  divcorr weight:	0.03209505%
+************************************************************************************************************************
+GG0-2020-10-13-162113.result
+Worst neutral-meta return:	interval	-1.81007446618853%
+  Netting return:	-0.105632131350476%
+  Netting return long/equal short:	-9.26579589413168%
+  Netting return long/equal short2:	4.49534590565469%
+  divcorr weight:	0.0328158%
+************************************************************************************************************************
+GG0-2020-10-13-163404.result
+Worst neutral-meta return:	interval4	-2.88433236680328%
+  Netting return:	-0.306415578558343%
+  Netting return long/equal short:	-11.557330695093%
+  Netting return long/equal short2:	1.13385397482079%
+  optimize weight:	0.0160615%
+************************************************************************************************************************
+GG0-2020-10-13-170702.result
+Worst neutral-meta return:	interval4	-2.68102567213115%
+  Netting return:	-0.07877911801261%
+  Netting return long/equal short:	-11.3889824778913%
+  Netting return long/equal short2:	1.30252141458423%
+  divcorr weight:	0.04753925%
+  optimize weight:	0.017371%
+************************************************************************************************************************
+GG0-2020-10-13-172322.result
+Worst neutral-meta return:	interval4	-2.95213997336065%
+  Netting return:	-0.352828449785742%
+  Netting return long/equal short:	-11.5824526731908%
+  Netting return long/equal short2:	1.42354707350176%
+  divcorr weight:	0.04473275%
+  optimize weight:	0.0157455%
+************************************************************************************************************************
+GG0-2020-10-13-173802.result
+Worst neutral-meta return:	interval3	-1.9901624579918%
+  Netting return:	-1.27073180691812%
+  Netting return long/equal short:	-9.82908444450439%
+  Netting return long/equal short2:	3.88811740198317%
+  divcorr weight:	0.03516755%
+************************************************************************************************************************
+GG0-2020-10-13-173942.result
+Worst neutral-meta return:	interval4	-2.38705770081967%
+  Netting return:	0.179754702937327%
+  Netting return long/equal short:	-11.1857551884118%
+  Netting return long/equal short2:	1.29410617312849%
+  divcorr weight:	0.03427715%
+  optimize weight:	0.01687715%
+************************************************************************************************************************
+GG0-2020-10-13-174738.result
+Worst neutral-meta return:	interval	-3.39052868227459%
+  Netting return:	-4.7395200849717%
+  Netting return long/equal short:	-12.3280728999419%
+  Netting return long/equal short2:	-7.13382740575858%
+  divcorr weight:	0.0893609%
+************************************************************************************************************************
+GG0-2020-10-13-191018.result
+Worst neutral-meta return:	interval4	-2.90264148770492%
+  Netting return:	-0.297789318027294%
+  Netting return long/equal short:	-11.3894271996647%
+  Netting return long/equal short2:	2.02472923385755%
+  divcorr weight:	0.0460542%
+  optimize weight:	0.01704645%
+************************************************************************************************************************
+GG0-2020-10-13-194529.result
+Worst neutral-meta return:	interval	-2.41861072643443%
+  Netting return:	-5.68454331579271%
+  Netting return long/equal short:	-13.367119722422%
+  Netting return long/equal short2:	-8.23790367611298%
+  divcorr weight:	0.08371835%
+************************************************************************************************************************
+GG0-2020-10-13-223746.result
+Worst neutral-meta return:	interval4	-2.71383745696721%
+  Netting return:	-2.76584607588517%
+  Netting return long/equal short:	-10.0214974056239%
+  Netting return long/equal short2:	-1.09187197520907%
+  divcorr weight:	0.002984435%
+  optimize weight:	-0.0264496%
+************************************************************************************************************************
+GG0-2020-10-13-224117.result
+Worst neutral-meta return:	interval	-2.73113909836066%
+  Netting return:	-6.31866983292153%
+  Netting return long/equal short:	-13.5903880968706%
+  Netting return long/equal short2:	-8.83601983092039%
+  divcorr weight:	0.09810035%
+  optimize weight:	-0.00588155%
+************************************************************************************************************************
+GG0-2020-10-13-225306.result
+Worst neutral-meta return:	interval3	-0.90816730532787%
+  Netting return:	-0.143401102669262%
+  Netting return long/equal short:	-9.44086176048668%
+  Netting return long/equal short2:	4.15923689032945%
+  divcorr weight:	0.03869895%
+  optimize weight:	0.0247763%
+************************************************************************************************************************
+GG0-2020-10-13-225651.result
+Worst neutral-meta return:	interval3	-1.54425910963115%
+  Netting return:	-0.825752702359001%
+  Netting return long/equal short:	-9.92357039922459%
+  Netting return long/equal short2:	5.55897618100319%
+  divcorr weight:	0.0296629%
+************************************************************************************************************************
+GG0-2020-10-13-230540.result
+Worst neutral-meta return:	interval4	-3.12905795081967%
+  Netting return:	-0.56915803202007%
+  Netting return long/equal short:	-11.4459481733924%
+  Netting return long/equal short2:	1.57090258938495%
+  divcorr weight:	0.0458045%
+************************************************************************************************************************
+GG0-2020-10-13-231728.result
+Worst neutral-meta return:	interval4	-2.8365057295082%
+  Netting return:	-0.279969173874559%
+  Netting return long/equal short:	-11.351266710604%
+  Netting return long/equal short2:	0.944065936939504%
+************************************************************************************************************************
+GG0-2020-10-13-232004.result
+Worst neutral-meta return:	interval3	-0.32281338114754%
+  Netting return:	0.459204276888512%
+  Netting return long/equal short:	-8.89022018105507%
+  Netting return long/equal short2:	4.56183152199541%
+  divcorr weight:	0.037935%
+  optimize weight:	0.02698505%
+************************************************************************************************************************
+GG0-2020-10-13-232437.result
+Worst neutral-meta return:	interval4	-2.54914796618853%
+  Netting return:	-2.61628441555748%
+  Netting return long/equal short:	-10.1389350209412%
+  Netting return long/equal short2:	-0.396137642464792%
+************************************************************************************************************************

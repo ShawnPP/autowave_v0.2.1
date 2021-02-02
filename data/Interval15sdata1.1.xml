@@ -1,0 +1,11 @@
+<cqfunds>
+    <stockdata>
+        <dataname datapath="IntervalData15s" datasize="950*4096" datastorage="14.00G">IntervalData15s.per_pGoUp</dataname>
+        <dataname datapath="IntervalData15s" datasize="950*4096" datastorage="14.00G">IntervalData15s.std_vol</dataname>
+        <dataname datapath="IntervalData15s" datasize="950*4096" datastorage="14.00G">IntervalData15s.per_buy</dataname>
+        <dataname datapath="IntervalData15s" datasize="950*4096" datastorage="14.00G">IntervalData15s.num_trade</dataname>
+        <dataname datapath="IntervalData15s" datasize="950*4096" datastorage="14.00G">IntervalData15s.vwap_p</dataname>
+        <dataname datapath="IntervalData15s" datasize="950*4096" datastorage="14.00G">IntervalData15s.buy_vol</dataname>
+        <dataname datapath="IntervalData15s" datasize="950*4096" datastorage="14.00G">IntervalData15s.sum_vol</dataname>
+    </stockdata>
+</cqfunds>

@@ -1,0 +1,1278 @@
+/dropbox/xiongzhang/addvalue/ GG
+GG0-2020-12-30-122701.result
+Worst neutral-meta return:	interval	-3.91428432243852%
+  Netting return to Daily:	1.6575301983857%
+  Netting return to Daily long/equal short:	1.52800179947233%
+  Netting return to Daily long/equal short2:	-5.95806405340397%
+  Netting return to WAVE:	3.22226745798608
+  Netting return to WAVE: long/equal short:	3.81450623097724%
+  Netting return to WAVE: long/equal short2:	0.764737711119941%
+  divcorr weight:	0.01201255%
+  optimize weight:	0.0184387%
+************************************************************************************************************************
+GG0-2020-12-30-142429.result
+Worst neutral-meta return:	interval4	-0.756540157889346%
+  Netting return to Daily:	4.23850075197157%
+  Netting return to Daily long/equal short:	5.63334039872973%
+  Netting return to Daily long/equal short2:	-5.08998476787968%
+  Netting return to WAVE:	3.70097743867878
+  Netting return to WAVE: long/equal short:	4.72840722127585%
+  Netting return to WAVE: long/equal short2:	3.28963051003139%
+  divcorr weight:	0.1443615%
+  optimize weight:	0.04194145%
+************************************************************************************************************************
+GG0-2020-12-30-144456.result
+Worst neutral-meta return:	interval4	-4.89585977868852%
+  Netting return to Daily:	2.30266636782086%
+  Netting return to Daily long/equal short:	1.04966974089761%
+  Netting return to Daily long/equal short2:	-3.08067263250452%
+  Netting return to WAVE:	2.94222750263542
+  Netting return to WAVE: long/equal short:	3.24513905949553%
+  Netting return to WAVE: long/equal short2:	10.1397079628597%
+  divcorr weight:	0.006765965%
+  optimize weight:	0.009189475%
+************************************************************************************************************************
+GG0-2020-12-30-154943.result
+Worst neutral-meta return:	interval4	2.8620781147541%
+  Netting return to Daily:	7.67078556982108%
+  Netting return to Daily long/equal short:	4.67851424011579%
+  Netting return to Daily long/equal short2:	2.59226064411869%
+  Netting return to WAVE:	5.29579946618262
+  Netting return to WAVE: long/equal short:	3.58818242900412%
+  Netting return to WAVE: long/equal short2:	7.27921615099421%
+************************************************************************************************************************
+GG0-2020-12-30-155123.result
+Worst neutral-meta return:	interval4	1.26420115676229%
+  Netting return to Daily:	3.97497558893574%
+  Netting return to Daily long/equal short:	1.94187655312101%
+  Netting return to Daily long/equal short2:	2.00654093235449%
+  Netting return to WAVE:	3.99606567084387
+  Netting return to WAVE: long/equal short:	3.39624661851362%
+  Netting return to WAVE: long/equal short2:	9.43532051852431%
+************************************************************************************************************************
+GG0-2020-12-30-155708.result
+Worst neutral-meta return:	interval4	2.1010220317623%
+  Netting return to Daily:	6.16471524794093%
+  Netting return to Daily long/equal short:	4.63614957946788%
+  Netting return to Daily long/equal short2:	-1.66021303557242%
+  Netting return to WAVE:	5.33086311798272
+  Netting return to WAVE: long/equal short:	4.01443274372656%
+  Netting return to WAVE: long/equal short2:	1.87251071123452%
+************************************************************************************************************************
+GG0-2020-12-30-162940.result
+Worst neutral-meta return:	interval4	-9.18161224344262%
+  Netting return to Daily:	-2.00399053127219%
+  Netting return to Daily long/equal short:	-1.90345001513696%
+  Netting return to Daily long/equal short2:	-3.43065219329839%
+  Netting return to WAVE:	0.986383582992765
+  Netting return to WAVE: long/equal short:	2.06158132803321%
+  Netting return to WAVE: long/equal short2:	6.26130753943033%
+  divcorr weight:	0.00592821%
+  optimize weight:	-0.0014139375%
+************************************************************************************************************************
+GG0-2020-12-30-163424.result
+Worst neutral-meta return:	interval4	-5.82512851229508%
+  Netting return to Daily:	1.37282573165416%
+  Netting return to Daily long/equal short:	2.70530548633313%
+  Netting return to Daily long/equal short2:	0.379238396052419%
+  Netting return to WAVE:	1.85273444073364
+  Netting return to WAVE: long/equal short:	3.98426682929363%
+  Netting return to WAVE: long/equal short2:	5.52119435339053%
+  divcorr weight:	0.00215757%
+  optimize weight:	-0.01139239%
+************************************************************************************************************************
+GG0-2020-12-30-171010.result
+Worst neutral-meta return:	interval4	-2.8091400522541%
+  Netting return to Daily:	1.74374960769266%
+  Netting return to Daily long/equal short:	2.68670428543455%
+  Netting return to Daily long/equal short2:	2.40208907233383%
+  Netting return to WAVE:	2.27261007132436
+  Netting return to WAVE: long/equal short:	3.80979751764584%
+  Netting return to WAVE: long/equal short2:	3.21588218716055%
+  divcorr weight:	0.002918685%
+  optimize weight:	0.01520925%
+************************************************************************************************************************
+GG0-2020-12-30-195639.result
+Worst neutral-meta return:	interval4	-1.40579272540984%
+  Netting return to Daily:	2.5738320215849%
+  Netting return to Daily long/equal short:	3.53334183662649%
+  Netting return to Daily long/equal short2:	-2.76643468793669%
+  Netting return to WAVE:	2.43676274614427
+  Netting return to WAVE: long/equal short:	4.40658278188169%
+  Netting return to WAVE: long/equal short2:	9.45988064997059%
+  divcorr weight:	0.0155268%
+  optimize weight:	-0.0037193455%
+************************************************************************************************************************
+GG0-2020-12-30-202159.result
+Worst neutral-meta return:	interval4	-4.46386279815573%
+  Netting return to Daily:	0.378118700834333%
+  Netting return to Daily long/equal short:	2.15212582856677%
+  Netting return to Daily long/equal short2:	-2.68784413904766%
+  Netting return to WAVE:	0.786329555420176
+  Netting return to WAVE: long/equal short:	3.04840748993194%
+  Netting return to WAVE: long/equal short2:	1.61429475368386%
+  divcorr weight:	0.001678825%
+  optimize weight:	-0.0302939%
+************************************************************************************************************************
+GG0-2020-12-30-210922.result
+Worst neutral-meta return:	interval4	-3.55857264129099%
+  Netting return to Daily:	0.539623586353975%
+  Netting return to Daily long/equal short:	-0.29895393377082%
+  Netting return to Daily long/equal short2:	-1.90845872600609%
+  Netting return to WAVE:	2.55588966121504
+  Netting return to WAVE: long/equal short:	2.27475135852768%
+  Netting return to WAVE: long/equal short2:	6.33475909692993%
+  divcorr weight:	0.0147195%
+  optimize weight:	0.0205453%
+************************************************************************************************************************
+GG0-2020-12-30-221542.result
+Worst neutral-meta return:	interval4	-7.78759773258197%
+  Netting return to Daily:	-0.87713463339801%
+  Netting return to Daily long/equal short:	-1.81813481613068%
+  Netting return to Daily long/equal short2:	-1.96525956661632%
+  Netting return to WAVE:	1.15366286531484
+  Netting return to WAVE: long/equal short:	-0.746516017070637%
+  Netting return to WAVE: long/equal short2:	-0.0866505016652786%
+  divcorr weight:	0.004416945%
+  optimize weight:	-0.004893835%
+************************************************************************************************************************
+GG0-2020-12-30-221910.result
+Worst neutral-meta return:	interval4	-9.59147963422131%
+  Netting return to Daily:	-2.5679510856324%
+  Netting return to Daily long/equal short:	-4.74088879363117%
+  Netting return to Daily long/equal short2:	-6.90664402674449%
+  Netting return to WAVE:	-0.797448444717703
+  Netting return to WAVE: long/equal short:	-3.02421543622287%
+  Netting return to WAVE: long/equal short2:	-1.4213473680954%
+  divcorr weight:	0.002443265%
+  optimize weight:	-0.0018935495%
+************************************************************************************************************************
+GG0-2020-12-30-233542.result
+Worst neutral-meta return:	interval	-7.26232051331968%
+  Netting return to Daily:	-0.262151232926815%
+  Netting return to Daily long/equal short:	0.237253321975551%
+  Netting return to Daily long/equal short2:	-7.20760727503636%
+  Netting return to WAVE:	-0.454342100405624
+  Netting return to WAVE: long/equal short:	1.33280877957841%
+  Netting return to WAVE: long/equal short2:	1.05210405966358%
+  divcorr weight:	0.002622935%
+  optimize weight:	0.0207282%
+************************************************************************************************************************
+GG0-2020-12-31-004158.result
+Worst neutral-meta return:	interval4	-2.15500915983606%
+  Netting return to Daily:	2.41710909803806%
+  Netting return to Daily long/equal short:	0.324478473840415%
+  Netting return to Daily long/equal short2:	-0.255061930397174%
+  Netting return to WAVE:	2.03382745563712
+  Netting return to WAVE: long/equal short:	0.841177810612333%
+  Netting return to WAVE: long/equal short2:	-1.56099013086954%
+  divcorr weight:	0.00275562%
+  optimize weight:	0.008117045%
+************************************************************************************************************************
+GG0-2020-12-31-005448.result
+Worst neutral-meta return:	interval4	-1.95990525512295%
+  Netting return to Daily:	1.82775768809767%
+  Netting return to Daily long/equal short:	1.14893687338625%
+  Netting return to Daily long/equal short2:	-3.11985667413161%
+  Netting return to WAVE:	2.14688379349014
+  Netting return to WAVE: long/equal short:	3.04198492515793%
+  Netting return to WAVE: long/equal short2:	6.2943220589608%
+  divcorr weight:	0.04700275%
+  optimize weight:	0.003142716%
+************************************************************************************************************************
+GG0-2020-12-31-012618.result
+Worst neutral-meta return:	interval4	-1.69528668032787%
+  Netting return to Daily:	2.92242405297921%
+  Netting return to Daily long/equal short:	3.17248347079987%
+  Netting return to Daily long/equal short2:	-1.17731575420333%
+  Netting return to WAVE:	3.79366598666631
+  Netting return to WAVE: long/equal short:	4.43582822589661%
+  Netting return to WAVE: long/equal short2:	6.24967489897944%
+  divcorr weight:	0.01584415%
+  optimize weight:	0.0029364095%
+************************************************************************************************************************
+GG1-2020-12-30-110541.result
+Worst neutral-meta return:	interval4	3.89815777264344%
+  Netting return to Daily:	6.74617891463566%
+  Netting return to Daily long/equal short:	-11.9039231986331%
+  Netting return to Daily long/equal short2:	7.73045426542881%
+  Netting return to WAVE:	3.71704583861308
+  Netting return to WAVE: long/equal short:	-12.2821272122543%
+  Netting return to WAVE: long/equal short2:	3.12837437475651%
+************************************************************************************************************************
+GG1-2020-12-30-142950.result
+Worst neutral-meta return:	interval4	1.48295447745902%
+  Netting return to Daily:	5.67195295502075%
+  Netting return to Daily long/equal short:	4.99134952602307%
+  Netting return to Daily long/equal short2:	-3.04779149024708%
+  Netting return to WAVE:	4.89004302234376
+  Netting return to WAVE: long/equal short:	5.2026929611906%
+  Netting return to WAVE: long/equal short2:	1.83363510292265%
+************************************************************************************************************************
+GG1-2020-12-30-145134.result
+Worst neutral-meta return:	interval4	-9.38104697745902%
+  Netting return to Daily:	-1.28863223209717%
+  Netting return to Daily long/equal short:	-1.57799417692607%
+  Netting return to Daily long/equal short2:	-3.03958095944804%
+  Netting return to WAVE:	0.881880084749711
+  Netting return to WAVE: long/equal short:	0.341681855983812%
+  Netting return to WAVE: long/equal short2:	1.86482677758978%
+  divcorr weight:	0.00997081%
+  optimize weight:	0.009619695%
+************************************************************************************************************************
+GG1-2020-12-30-163859.result
+Worst neutral-meta return:	interval4	-2.19632351434426%
+  Netting return to Daily:	2.55834723922189%
+  Netting return to Daily long/equal short:	3.08834752974848%
+  Netting return to Daily long/equal short2:	1.04931495526148%
+  Netting return to WAVE:	3.75425160141396
+  Netting return to WAVE: long/equal short:	4.74756138110825%
+  Netting return to WAVE: long/equal short2:	-0.444919136457382%
+  divcorr weight:	0.006238945%
+  optimize weight:	0.0248987%
+************************************************************************************************************************
+GG1-2020-12-30-191229.result
+Worst neutral-meta return:	interval4	-8.2539482182377%
+  Netting return to Daily:	-3.0352128505786%
+  Netting return to Daily long/equal short:	-2.78515017753859%
+  Netting return to Daily long/equal short2:	0.871018945014658%
+  Netting return to WAVE:	0.498457405098581
+  Netting return to WAVE: long/equal short:	1.61825202974585%
+  Netting return to WAVE: long/equal short2:	2.04811397387881%
+  divcorr weight:	0.02036415%
+  optimize weight:	0.0128268%
+************************************************************************************************************************
+GG1-2020-12-30-195558.result
+Worst neutral-meta return:	interval4	-4.09061786885246%
+  Netting return to Daily:	2.9515895620745%
+  Netting return to Daily long/equal short:	1.15405850197313%
+  Netting return to Daily long/equal short2:	-5.12815452656015%
+  Netting return to WAVE:	2.5094131845786
+  Netting return to WAVE: long/equal short:	1.94642005640941%
+  Netting return to WAVE: long/equal short2:	2.94756252923787%
+  divcorr weight:	0.002167425%
+  optimize weight:	-0.0335894%
+************************************************************************************************************************
+GG1-2020-12-30-204028.result
+Worst neutral-meta return:	interval4	-10.3808065778689%
+  Netting return to Daily:	-3.56203863947056%
+  Netting return to Daily long/equal short:	-3.93938894286527%
+  Netting return to Daily long/equal short2:	-0.532456908655436%
+  Netting return to WAVE:	-0.78554402375314
+  Netting return to WAVE: long/equal short:	0.207370873736716%
+  Netting return to WAVE: long/equal short2:	2.40498468867687%
+  divcorr weight:	0.004058745%
+  optimize weight:	-0.00997837%
+************************************************************************************************************************
+GG1-2020-12-30-215739.result
+Worst neutral-meta return:	interval4	-4.1450657807377%
+  Netting return to Daily:	1.84346308783885%
+  Netting return to Daily long/equal short:	2.24297470166724%
+  Netting return to Daily long/equal short2:	-0.16216470346335%
+  Netting return to WAVE:	1.66022676618835
+  Netting return to WAVE: long/equal short:	2.66443465041059%
+  Netting return to WAVE: long/equal short2:	1.23779175583421%
+  divcorr weight:	0.00770739%
+  optimize weight:	0.02263905%
+************************************************************************************************************************
+GG1-2020-12-30-221514.result
+Worst neutral-meta return:	interval4	-9.36047463217213%
+  Netting return to Daily:	-2.20533073145673%
+  Netting return to Daily long/equal short:	-3.92153354414289%
+  Netting return to Daily long/equal short2:	-2.67025322206167%
+  Netting return to WAVE:	0.558189476349982
+  Netting return to WAVE: long/equal short:	-1.4518473086373%
+  Netting return to WAVE: long/equal short2:	0.312029254589067%
+  divcorr weight:	0.003251615%
+  optimize weight:	-0.0111758%
+************************************************************************************************************************
+GG1-2020-12-30-221728.result
+Worst neutral-meta return:	interval4	-8.0055103032787%
+  Netting return to Daily:	-1.18111232386644%
+  Netting return to Daily long/equal short:	-3.17660812227864%
+  Netting return to Daily long/equal short2:	-2.66838725788228%
+  Netting return to WAVE:	0.112244473762385
+  Netting return to WAVE: long/equal short:	-1.8296842654848%
+  Netting return to WAVE: long/equal short2:	1.61841508966916%
+  divcorr weight:	0.003342535%
+  optimize weight:	0.003738405%
+************************************************************************************************************************
+GG1-2020-12-31-002900.result
+Worst neutral-meta return:	interval4	-5.24262251127049%
+  Netting return to Daily:	2.14737494499535%
+  Netting return to Daily long/equal short:	0.593236681899317%
+  Netting return to Daily long/equal short2:	-5.22854225879947%
+  Netting return to WAVE:	0.942474230526549
+  Netting return to WAVE: long/equal short:	0.102198525804184%
+  Netting return to WAVE: long/equal short2:	3.39447567387464%
+  divcorr weight:	0.00219256%
+  optimize weight:	-0.0271299%
+************************************************************************************************************************
+GG1-2020-12-31-014021.result
+Worst neutral-meta return:	interval4	4.07119156762295%
+  Netting return to Daily:	4.52284390111085%
+  Netting return to Daily long/equal short:	1.1963985878469%
+  Netting return to Daily long/equal short2:	0.103190072360375%
+  Netting return to WAVE:	3.53869570746473
+  Netting return to WAVE: long/equal short:	1.21069092955412%
+  Netting return to WAVE: long/equal short2:	5.61796435365024%
+************************************************************************************************************************
+GG1-2020-12-31-043348.result
+Worst neutral-meta return:	interval4	-1.63502722233606%
+  Netting return to Daily:	2.67310151374331%
+  Netting return to Daily long/equal short:	3.07635787646206%
+  Netting return to Daily long/equal short2:	-1.23070222247544%
+  Netting return to WAVE:	2.9249735750445
+  Netting return to WAVE: long/equal short:	3.78743161844106%
+  Netting return to WAVE: long/equal short2:	-1.46625680396688%
+  divcorr weight:	0.005656375%
+  optimize weight:	0.0196453%
+************************************************************************************************************************
+GG2-2020-12-30-141915.result
+Worst neutral-meta return:	interval4	-4.39248486680327%
+  Netting return to Daily:	-0.521910495164884%
+  Netting return to Daily long/equal short:	-1.11630070024693%
+  Netting return to Daily long/equal short2:	0.58038181125009%
+  Netting return to WAVE:	0.21185913360426
+  Netting return to WAVE: long/equal short:	-0.0377204161440394%
+  Netting return to WAVE: long/equal short2:	2.49038531236584%
+  divcorr weight:	0.09605905%
+  optimize weight:	0.03743065%
+************************************************************************************************************************
+GG2-2020-12-30-144451.result
+Worst neutral-meta return:	interval4	-2.95628507172131%
+  Netting return to Daily:	3.15445064888715%
+  Netting return to Daily long/equal short:	3.32643736440828%
+  Netting return to Daily long/equal short2:	0.419823247855619%
+  Netting return to WAVE:	3.34377314452406
+  Netting return to WAVE: long/equal short:	3.76208797854235%
+  Netting return to WAVE: long/equal short2:	2.97156855037469%
+************************************************************************************************************************
+GG2-2020-12-30-151237.result
+Worst neutral-meta return:	interval4	-4.10789064959016%
+  Netting return to Daily:	1.46904341829031%
+  Netting return to Daily long/equal short:	0.596344761870529%
+  Netting return to Daily long/equal short2:	-3.41228069400695%
+  Netting return to WAVE:	3.79131875436754
+  Netting return to WAVE: long/equal short:	4.21877000798303%
+  Netting return to WAVE: long/equal short2:	5.09561114327511%
+************************************************************************************************************************
+GG2-2020-12-30-215402.result
+Worst neutral-meta return:	interval4	-6.77477269467213%
+  Netting return to Daily:	0.295330146988051%
+  Netting return to Daily long/equal short:	1.82167734144006%
+  Netting return to Daily long/equal short2:	-2.2947072070033%
+  Netting return to WAVE:	1.7267405859452
+  Netting return to WAVE: long/equal short:	2.76026241820081%
+  Netting return to WAVE: long/equal short2:	2.01393849466423%
+  divcorr weight:	0.003599635%
+  optimize weight:	0.008592205%
+************************************************************************************************************************
+GG2-2020-12-30-221509.result
+Worst neutral-meta return:	interval4	-8.7364707817623%
+  Netting return to Daily:	-1.98249180194513%
+  Netting return to Daily long/equal short:	-4.4949008106926%
+  Netting return to Daily long/equal short2:	-4.60830527920024%
+  Netting return to WAVE:	0.648578023466683
+  Netting return to WAVE: long/equal short:	-1.72214361780283%
+  Netting return to WAVE: long/equal short2:	0.827901139088991%
+  divcorr weight:	0.002505365%
+  optimize weight:	-0.006648415%
+************************************************************************************************************************
+GG2-2020-12-30-233540.result
+Worst neutral-meta return:	interval	-6.95952566905737%
+  Netting return to Daily:	-0.0125050315699245%
+  Netting return to Daily long/equal short:	0.0326822059188705%
+  Netting return to Daily long/equal short2:	-7.34669451854745%
+  Netting return to WAVE:	-0.413978623742448
+  Netting return to WAVE: long/equal short:	1.3436419566806%
+  Netting return to WAVE: long/equal short2:	0.0595624170416086%
+  divcorr weight:	0.00260236%
+  optimize weight:	0.02260435%
+************************************************************************************************************************
+GG2-2020-12-31-002910.result
+Worst neutral-meta return:	interval4	-0.650409603483606%
+  Netting return to Daily:	2.93600957422129%
+  Netting return to Daily long/equal short:	3.06550080171394%
+  Netting return to Daily long/equal short2:	-3.32637060732111%
+  Netting return to WAVE:	1.9205067294762
+  Netting return to WAVE: long/equal short:	3.61579086505893%
+  Netting return to WAVE: long/equal short2:	8.85673977142901%
+  divcorr weight:	0.01502635%
+  optimize weight:	0.001641803%
+************************************************************************************************************************
+GG2-2020-12-31-010633.result
+Worst neutral-meta return:	interval4	-7.35388036680328%
+  Netting return to Daily:	-0.31534304247749%
+  Netting return to Daily long/equal short:	-0.0306914280643289%
+  Netting return to Daily long/equal short2:	-5.64039602684187%
+  Netting return to WAVE:	1.76222944601059
+  Netting return to WAVE: long/equal short:	2.02183779900045%
+  Netting return to WAVE: long/equal short2:	-1.0349320420712%
+  divcorr weight:	0.003914525%
+  optimize weight:	0.00809535%
+************************************************************************************************************************
+GG2-2020-12-31-025643.result
+Worst neutral-meta return:	interval4	-5.39584056198771%
+  Netting return to Daily:	-0.933654304881587%
+  Netting return to Daily long/equal short:	-2.60721323169357%
+  Netting return to Daily long/equal short2:	-1.32721418785781%
+  Netting return to WAVE:	1.05069225109045
+  Netting return to WAVE: long/equal short:	0.399871085429573%
+  Netting return to WAVE: long/equal short2:	-3.47622406797089%
+  divcorr weight:	0.0273984%
+  optimize weight:	0.01292095%
+************************************************************************************************************************
+GG2-2020-12-31-031542.result
+Worst neutral-meta return:	interval4	-1.58891331967213%
+  Netting return to Daily:	1.47462312308705%
+  Netting return to Daily long/equal short:	1.27462849939349%
+  Netting return to Daily long/equal short2:	0.928510155917501%
+  Netting return to WAVE:	2.87531945729476
+  Netting return to WAVE: long/equal short:	3.61896428042762%
+  Netting return to WAVE: long/equal short2:	-0.625544749471007%
+  divcorr weight:	0.00281465%
+  optimize weight:	0.00727009%
+************************************************************************************************************************
+GG3-2020-12-30-163344.result
+Worst neutral-meta return:	interval4	-5.37751657346312%
+  Netting return to Daily:	1.09538989975789%
+  Netting return to Daily long/equal short:	1.75554888468037%
+  Netting return to Daily long/equal short2:	-3.78610502567804%
+  Netting return to WAVE:	3.60622505702816
+  Netting return to WAVE: long/equal short:	4.04589515021503%
+  Netting return to WAVE: long/equal short2:	2.07839833051968%
+  divcorr weight:	0.00219594%
+  optimize weight:	-0.01093179%
+************************************************************************************************************************
+GG3-2020-12-30-171050.result
+Worst neutral-meta return:	interval4	-3.16214286168033%
+  Netting return to Daily:	1.32557135950383%
+  Netting return to Daily long/equal short:	2.96654437305764%
+  Netting return to Daily long/equal short2:	-1.21135640942303%
+  Netting return to WAVE:	3.44510864464246
+  Netting return to WAVE: long/equal short:	5.35844853947399%
+  Netting return to WAVE: long/equal short2:	2.71959381244605%
+  divcorr weight:	0.00481828%
+  optimize weight:	0.01153945%
+************************************************************************************************************************
+GG3-2020-12-30-195535.result
+Worst neutral-meta return:	interval4	-3.25277790778688%
+  Netting return to Daily:	1.13687857728148%
+  Netting return to Daily long/equal short:	1.24147459372169%
+  Netting return to Daily long/equal short2:	-0.296897735234477%
+  Netting return to WAVE:	3.72720701967397
+  Netting return to WAVE: long/equal short:	4.48867258071638%
+  Netting return to WAVE: long/equal short2:	4.201530217063%
+  divcorr weight:	0.0046415%
+  optimize weight:	0.003589725%
+************************************************************************************************************************
+GG3-2020-12-30-200334.result
+Worst neutral-meta return:	interval4	-1.12068799180328%
+  Netting return to Daily:	2.83500529424701%
+  Netting return to Daily long/equal short:	1.98378679802485%
+  Netting return to Daily long/equal short2:	4.86836933578774%
+  Netting return to WAVE:	3.8318879437701
+  Netting return to WAVE: long/equal short:	4.2829050735129%
+  Netting return to WAVE: long/equal short2:	5.95696494965969%
+  divcorr weight:	0.004595365%
+  optimize weight:	0.01470785%
+************************************************************************************************************************
+GG3-2020-12-30-200444.result
+Worst neutral-meta return:	interval4	0.372614328893444%
+  Netting return to Daily:	2.44484048619616%
+  Netting return to Daily long/equal short:	1.4839260063308%
+  Netting return to Daily long/equal short2:	3.03626611513569%
+  Netting return to WAVE:	3.30500658995333
+  Netting return to WAVE: long/equal short:	3.0253014694215%
+  Netting return to WAVE: long/equal short2:	3.3871721858352%
+  divcorr weight:	0.0209401%
+  optimize weight:	0.0227965%
+************************************************************************************************************************
+GG3-2020-12-30-201254.result
+Worst neutral-meta return:	interval4	-5.58985445696721%
+  Netting return to Daily:	-1.73580790919036%
+  Netting return to Daily long/equal short:	-1.7782139820895%
+  Netting return to Daily long/equal short2:	-5.880609934564%
+  Netting return to WAVE:	-0.553760289957146
+  Netting return to WAVE: long/equal short:	-0.754119766426297%
+  Netting return to WAVE: long/equal short2:	-0.458296055699377%
+  divcorr weight:	0.0111175%
+  optimize weight:	-0.00464032%
+************************************************************************************************************************
+GG3-2020-12-30-215348.result
+Worst neutral-meta return:	interval4	-7.14606326127049%
+  Netting return to Daily:	-0.141253621206913%
+  Netting return to Daily long/equal short:	1.41649773060017%
+  Netting return to Daily long/equal short2:	-2.72015598177102%
+  Netting return to WAVE:	1.46214299979375
+  Netting return to WAVE: long/equal short:	2.47170779119541%
+  Netting return to WAVE: long/equal short2:	1.94700963623204%
+  divcorr weight:	0.002855635%
+  optimize weight:	0.00822994%
+************************************************************************************************************************
+GG3-2020-12-30-221519.result
+Worst neutral-meta return:	interval4	-8.22539738729509%
+  Netting return to Daily:	0%
+  Netting return to Daily long/equal short:	0%
+  Netting return to Daily long/equal short2:	0%
+  Netting return to WAVE:	1.02944797088817
+  Netting return to WAVE: long/equal short:	-1.22119997974547%
+  Netting return to WAVE: long/equal short2:	2.71987898211353%
+************************************************************************************************************************
+GG3-2020-12-30-224712.result
+Worst neutral-meta return:	interval4	-1.47201093852459%
+  Netting return to Daily:	3.65802021580027%
+  Netting return to Daily long/equal short:	5.59199010825886%
+  Netting return to Daily long/equal short2:	-2.28206117672175%
+  Netting return to WAVE:	2.47795840779473
+  Netting return to WAVE: long/equal short:	3.94072930796202%
+  Netting return to WAVE: long/equal short2:	-0.144888711093206%
+  divcorr weight:	0.00396307%
+  optimize weight:	0.025696%
+************************************************************************************************************************
+GG3-2020-12-30-233547.result
+Worst neutral-meta return:	interval	-8.68533649590164%
+  Netting return to Daily:	-0.559855350695497%
+  Netting return to Daily long/equal short:	0.913219995369218%
+  Netting return to Daily long/equal short2:	-4.78021257709121%
+  Netting return to WAVE:	-0.545006184448738
+  Netting return to WAVE: long/equal short:	1.42787348007395%
+  Netting return to WAVE: long/equal short2:	4.36056582059676%
+  divcorr weight:	0.001906005%
+  optimize weight:	0.01394815%
+************************************************************************************************************************
+GG3-2020-12-31-002245.result
+Worst neutral-meta return:	interval4	-8.42902889344262%
+  Netting return to Daily:	-2.68927000235369%
+  Netting return to Daily long/equal short:	-1.61766357190542%
+  Netting return to Daily long/equal short2:	-3.09248938537762%
+  Netting return to WAVE:	0.505353399670764
+  Netting return to WAVE: long/equal short:	1.84628342317182%
+  Netting return to WAVE: long/equal short2:	9.82307316538206%
+  divcorr weight:	0.0163333%
+  optimize weight:	-0.01109707%
+************************************************************************************************************************
+GG3-2020-12-31-004050.result
+Worst neutral-meta return:	interval4	-4.85380677868852%
+  Netting return to Daily:	1.70403213996255%
+  Netting return to Daily long/equal short:	-0.550176480098862%
+  Netting return to Daily long/equal short2:	-6.96060555779195%
+  Netting return to WAVE:	1.31498978874638
+  Netting return to WAVE: long/equal short:	0.589707494316664%
+  Netting return to WAVE: long/equal short2:	3.75590071192584%
+  divcorr weight:	0.003322565%
+  optimize weight:	-0.02684535%
+************************************************************************************************************************
+GG3-2020-12-31-005404.result
+Worst neutral-meta return:	interval4	-9.28144904508197%
+  Netting return to Daily:	-3.43498911036023%
+  Netting return to Daily long/equal short:	-2.71442212065157%
+  Netting return to Daily long/equal short2:	-5.51039533850221%
+  Netting return to WAVE:	0.626565021728837
+  Netting return to WAVE: long/equal short:	1.87879695623601%
+  Netting return to WAVE: long/equal short2:	12.2821498292669%
+  divcorr weight:	0.0145245%
+  optimize weight:	-0.0151854%
+************************************************************************************************************************
+GG4-2020-12-30-120208.result
+Worst neutral-meta return:	interval4	-1.12225205327869%
+  Netting return to Daily:	3.61863266855794%
+  Netting return to Daily long/equal short:	3.23551478778491%
+  Netting return to Daily long/equal short2:	-0.760473697336428%
+  Netting return to WAVE:	2.32866332866724
+  Netting return to WAVE: long/equal short:	2.13673254577607%
+  Netting return to WAVE: long/equal short2:	4.28493589630966%
+  divcorr weight:	0.0702391%
+  optimize weight:	0.02987655%
+************************************************************************************************************************
+GG4-2020-12-30-153250.result
+Worst neutral-meta return:	interval4	0.305902302254098%
+  Netting return to Daily:	5.2467906476832%
+  Netting return to Daily long/equal short:	2.54525409297718%
+  Netting return to Daily long/equal short2:	-0.202071764216201%
+  Netting return to WAVE:	3.86140230324882
+  Netting return to WAVE: long/equal short:	2.86394952896669%
+  Netting return to WAVE: long/equal short2:	5.10158899903368%
+  divcorr weight:	0.00633175%
+  optimize weight:	0.03320655%
+************************************************************************************************************************
+GG4-2020-12-30-155440.result
+Worst neutral-meta return:	interval	0.992956234631147%
+  Netting return to Daily:	4.96170958252016%
+  Netting return to Daily long/equal short:	4.4573801067287%
+  Netting return to Daily long/equal short2:	1.43187693958492%
+  Netting return to WAVE:	6.89343459912611
+  Netting return to WAVE: long/equal short:	6.2034465107632%
+  Netting return to WAVE: long/equal short2:	5.15181738701426%
+************************************************************************************************************************
+GG4-2020-12-30-162716.result
+Worst neutral-meta return:	interval4	-5.63732385758196%
+  Netting return to Daily:	0.213917259278379%
+  Netting return to Daily long/equal short:	1.49925943262917%
+  Netting return to Daily long/equal short2:	0.970357742774274%
+  Netting return to WAVE:	1.85162095452566
+  Netting return to WAVE: long/equal short:	3.73196270536976%
+  Netting return to WAVE: long/equal short2:	5.99437118903972%
+  divcorr weight:	0.005068975%
+  optimize weight:	-0.001576968%
+************************************************************************************************************************
+GG4-2020-12-30-165758.result
+Worst neutral-meta return:	interval	4.59628992622951%
+  Netting return to Daily:	7.37503162365623%
+  Netting return to Daily long/equal short:	5.98327120042601%
+  Netting return to Daily long/equal short2:	1.15882066419441%
+  Netting return to WAVE:	4.72284643494336
+  Netting return to WAVE: long/equal short:	4.38883775663629%
+  Netting return to WAVE: long/equal short2:	1.71359214076191%
+  divcorr weight:	0.203898%
+  optimize weight:	0.05488175%
+************************************************************************************************************************
+GG4-2020-12-30-171012.result
+Worst neutral-meta return:	interval4	-2.93101694159836%
+  Netting return to Daily:	1.7693121090308%
+  Netting return to Daily long/equal short:	2.41270060783338%
+  Netting return to Daily long/equal short2:	1.61712011215987%
+  Netting return to WAVE:	3.10390513529628
+  Netting return to WAVE: long/equal short:	4.43637096083157%
+  Netting return to WAVE: long/equal short2:	2.2833672574842%
+  divcorr weight:	0.00418387%
+  optimize weight:	0.0146165%
+************************************************************************************************************************
+GG4-2020-12-31-004518.result
+Worst neutral-meta return:	interval4	-2.99965838319672%
+  Netting return to Daily:	1.77788161177602%
+  Netting return to Daily long/equal short:	0.288436116954956%
+  Netting return to Daily long/equal short2:	-2.85267670411942%
+  Netting return to WAVE:	1.61636590212285
+  Netting return to WAVE: long/equal short:	1.13228707682818%
+  Netting return to WAVE: long/equal short2:	-0.475147686530334%
+  divcorr weight:	0.002370625%
+  optimize weight:	0.006819125%
+************************************************************************************************************************
+GG4-2020-12-31-012903.result
+Worst neutral-meta return:	interval4	-4.1269803329918%
+  Netting return to Daily:	4.70137431240879%
+  Netting return to Daily long/equal short:	2.73695388886843%
+  Netting return to Daily long/equal short2:	-0.724600991621607%
+  Netting return to WAVE:	2.15197139588836
+  Netting return to WAVE: long/equal short:	1.71467097622012%
+  Netting return to WAVE: long/equal short2:	6.55540130644188%
+  divcorr weight:	0.003175355%
+  optimize weight:	-0.0007083885%
+************************************************************************************************************************
+GG4-2020-12-31-014920.result
+Worst neutral-meta return:	interval	4.63879331967213%
+  Netting return to Daily:	9.89763378185567%
+  Netting return to Daily long/equal short:	7.72093381317785%
+  Netting return to Daily long/equal short2:	4.70026814292405%
+  Netting return to WAVE:	5.68607947740797
+  Netting return to WAVE: long/equal short:	4.65519613827544%
+  Netting return to WAVE: long/equal short2:	4.87564188603535%
+  divcorr weight:	0.150246%
+  optimize weight:	0.0512044%
+************************************************************************************************************************
+GG4-2020-12-31-024554.result
+Worst neutral-meta return:	interval4	1.01169047131148%
+  Netting return to Daily:	3.5202775798734%
+  Netting return to Daily long/equal short:	2.91386374579425%
+  Netting return to Daily long/equal short2:	-1.66998138255808%
+  Netting return to WAVE:	2.69487194556524
+  Netting return to WAVE: long/equal short:	2.6647327858627%
+  Netting return to WAVE: long/equal short2:	5.08747690075549%
+  divcorr weight:	0.072941%
+  optimize weight:	0.0447255%
+************************************************************************************************************************
+GG5-2020-12-30-124441.result
+Worst neutral-meta return:	interval4	-4.68127521096312%
+  Netting return to Daily:	1.1954770235007%
+  Netting return to Daily long/equal short:	-6.71482253641461%
+  Netting return to Daily long/equal short2:	-5.62318752608289%
+  Netting return to WAVE:	1.65171734332628
+  Netting return to WAVE: long/equal short:	-2.25657311528161%
+  Netting return to WAVE: long/equal short2:	2.20263639850583%
+  divcorr weight:	0.02448845%
+  optimize weight:	-0.000853625%
+************************************************************************************************************************
+GG5-2020-12-30-141816.result
+Worst neutral-meta return:	interval4	-6.93237139344262%
+  Netting return to Daily:	-4.92081423644236%
+  Netting return to Daily long/equal short:	-14.3675691919622%
+  Netting return to Daily long/equal short2:	-5.77193388083462%
+  Netting return to WAVE:	-2.53545941718675
+  Netting return to WAVE: long/equal short:	-9.77890265797959%
+  Netting return to WAVE: long/equal short2:	3.20945822079078%
+  divcorr weight:	0.00711093%
+  optimize weight:	-0.011001715%
+************************************************************************************************************************
+GG5-2020-12-30-142317.result
+Worst neutral-meta return:	interval4	-17.717811767418%
+  Netting return to Daily:	-9.58905861061881%
+  Netting return to Daily long/equal short:	-11.5515800125702%
+  Netting return to Daily long/equal short2:	-7.68311147380093%
+  Netting return to WAVE:	-2.38796068392509
+  Netting return to WAVE: long/equal short:	-5.02026323428488%
+  Netting return to WAVE: long/equal short2:	4.2154117951516%
+  divcorr weight:	0.00455595%
+************************************************************************************************************************
+GG5-2020-12-30-150415.result
+Worst neutral-meta return:	interval4	-9.59026551741804%
+  Netting return to Daily:	-1.86802374682164%
+  Netting return to Daily long/equal short:	-3.06142114989699%
+  Netting return to Daily long/equal short2:	-7.23784679358938%
+  Netting return to WAVE:	1.0053915597727
+  Netting return to WAVE: long/equal short:	0.5826294573024%
+  Netting return to WAVE: long/equal short2:	10.0190596862095%
+  divcorr weight:	0.00249371%
+  optimize weight:	-0.00681803%
+************************************************************************************************************************
+GG5-2020-12-30-151853.result
+Worst neutral-meta return:	interval4	-10.3478128237705%
+  Netting return to Daily:	-2.62192299570884%
+  Netting return to Daily long/equal short:	-3.26420837421955%
+  Netting return to Daily long/equal short2:	-6.40602033598304%
+  Netting return to WAVE:	0.20183320107097
+  Netting return to WAVE: long/equal short:	0.134895146957045%
+  Netting return to WAVE: long/equal short2:	8.17062717891818%
+************************************************************************************************************************
+GG5-2020-12-30-153350.result
+Worst neutral-meta return:	interval4	-1.2878737079918%
+  Netting return to Daily:	3.27599883169561%
+  Netting return to Daily long/equal short:	0.538177335106175%
+  Netting return to Daily long/equal short2:	-0.115131945045293%
+  Netting return to WAVE:	2.2053751577699
+  Netting return to WAVE: long/equal short:	1.42894876070018%
+  Netting return to WAVE: long/equal short2:	0.785549970437477%
+  divcorr weight:	0.00482521%
+  optimize weight:	0.0287432%
+************************************************************************************************************************
+GG5-2020-12-30-154458.result
+Worst neutral-meta return:	interval4	-7.95704253790984%
+  Netting return to Daily:	-1.19602902757691%
+  Netting return to Daily long/equal short:	-0.730796232878945%
+  Netting return to Daily long/equal short2:	-5.8799126167393%
+  Netting return to WAVE:	1.12138458799624
+  Netting return to WAVE: long/equal short:	1.23036865053587%
+  Netting return to WAVE: long/equal short2:	5.12225195582427%
+************************************************************************************************************************
+GG5-2020-12-30-160521.result
+Worst neutral-meta return:	interval4	4.85751786885246%
+  Netting return to Daily:	5.68245848422729%
+  Netting return to Daily long/equal short:	2.09866903350116%
+  Netting return to Daily long/equal short2:	5.60668113226412%
+  Netting return to WAVE:	4.92779107649971
+  Netting return to WAVE: long/equal short:	2.59213760852959%
+  Netting return to WAVE: long/equal short2:	10.6594599346378%
+************************************************************************************************************************
+GG5-2020-12-30-161122.result
+Worst neutral-meta return:	interval4	-5.48298998360656%
+  Netting return to Daily:	-0.00797487316002019%
+  Netting return to Daily long/equal short:	-0.928741370227708%
+  Netting return to Daily long/equal short2:	-6.79688493134381%
+  Netting return to WAVE:	3.2041786262862
+  Netting return to WAVE: long/equal short:	2.34279561040112%
+  Netting return to WAVE: long/equal short2:	6.6279222720363%
+************************************************************************************************************************
+GG5-2020-12-30-162437.result
+Worst neutral-meta return:	interval4	-1.81550148155738%
+  Netting return to Daily:	1.63528410564637%
+  Netting return to Daily long/equal short:	2.75288604356146%
+  Netting return to Daily long/equal short2:	0.152121772212452%
+  Netting return to WAVE:	3.2055371170439
+  Netting return to WAVE: long/equal short:	4.68770120980605%
+  Netting return to WAVE: long/equal short2:	2.84172010532126%
+  divcorr weight:	0.01306165%
+  optimize weight:	0.02854175%
+************************************************************************************************************************
+GG5-2020-12-30-170526.result
+Worst neutral-meta return:	interval4	-4.32842442213115%
+  Netting return to Daily:	0.458147376833756%
+  Netting return to Daily long/equal short:	0.728088719604972%
+  Netting return to Daily long/equal short2:	-2.19374077544039%
+  Netting return to WAVE:	3.59377748858711
+  Netting return to WAVE: long/equal short:	4.16026889966313%
+  Netting return to WAVE: long/equal short2:	3.29504072181821%
+  divcorr weight:	0.009198105%
+  optimize weight:	0.00667587%
+************************************************************************************************************************
+GG5-2020-12-30-195600.result
+Worst neutral-meta return:	interval4	-10.0431835440574%
+  Netting return to Daily:	-3.82994617340816%
+  Netting return to Daily long/equal short:	-3.79595356962185%
+  Netting return to Daily long/equal short2:	-4.34045042159971%
+  Netting return to WAVE:	0.600724451172186
+  Netting return to WAVE: long/equal short:	1.1045546291737%
+  Netting return to WAVE: long/equal short2:	11.2145497422064%
+  divcorr weight:	0.00689017%
+  optimize weight:	-0.02358995%
+************************************************************************************************************************
+GG5-2020-12-30-202545.result
+Worst neutral-meta return:	interval4	-8.16462674795082%
+  Netting return to Daily:	-0.618699278548854%
+  Netting return to Daily long/equal short:	-2.35721742077725%
+  Netting return to Daily long/equal short2:	-5.32142052912136%
+  Netting return to WAVE:	0.876094695085898
+  Netting return to WAVE: long/equal short:	-0.0745290830806126%
+  Netting return to WAVE: long/equal short2:	-0.598821494740624%
+  divcorr weight:	0.00272434%
+  optimize weight:	-0.03577115%
+************************************************************************************************************************
+GG5-2020-12-30-202646.result
+Worst neutral-meta return:	interval4	-5.53068648155738%
+  Netting return to Daily:	-1.47655816261492%
+  Netting return to Daily long/equal short:	-1.26741002479203%
+  Netting return to Daily long/equal short2:	-8.80365398565293%
+  Netting return to WAVE:	-0.671147995496872
+  Netting return to WAVE: long/equal short:	-0.498761508335179%
+  Netting return to WAVE: long/equal short2:	0.357292471421372%
+  divcorr weight:	0.01175705%
+  optimize weight:	-0.00940867%
+************************************************************************************************************************
+GG5-2020-12-30-215348.result
+Worst neutral-meta return:	interval4	-7.10915854508197%
+  Netting return to Daily:	-0.03487464749396%
+  Netting return to Daily long/equal short:	1.29735033732014%
+  Netting return to Daily long/equal short2:	-3.54924492492553%
+  Netting return to WAVE:	1.4086975041632
+  Netting return to WAVE: long/equal short:	2.39479409571534%
+  Netting return to WAVE: long/equal short2:	3.45473393771245%
+  divcorr weight:	0.003674585%
+  optimize weight:	0.0086658%
+************************************************************************************************************************
+GG5-2020-12-30-215728.result
+Worst neutral-meta return:	interval4	-3.46175379815574%
+  Netting return to Daily:	1.64083744037786%
+  Netting return to Daily long/equal short:	1.66669310546187%
+  Netting return to Daily long/equal short2:	-0.63711716027294%
+  Netting return to WAVE:	2.2057389459892
+  Netting return to WAVE: long/equal short:	3.06841994650864%
+  Netting return to WAVE: long/equal short2:	1.57977942066627%
+  divcorr weight:	0.0167275%
+  optimize weight:	0.02364285%
+************************************************************************************************************************
+GG5-2020-12-30-221534.result
+Worst neutral-meta return:	interval4	-7.72034259118853%
+  Netting return to Daily:	-1.00169824855568%
+  Netting return to Daily long/equal short:	-2.9431628280884%
+  Netting return to Daily long/equal short2:	-2.65739055597599%
+  Netting return to WAVE:	0.278414318240149
+  Netting return to WAVE: long/equal short:	-1.75462655306854%
+  Netting return to WAVE: long/equal short2:	2.05810563708378%
+************************************************************************************************************************
+GG5-2020-12-30-221746.result
+Worst neutral-meta return:	interval4	-8.26388351434426%
+  Netting return to Daily:	-1.49251806763931%
+  Netting return to Daily long/equal short:	-3.34957102271744%
+  Netting return to Daily long/equal short2:	-3.30644579218144%
+  Netting return to WAVE:	0.12869864799059
+  Netting return to WAVE: long/equal short:	-1.72587657705734%
+  Netting return to WAVE: long/equal short2:	1.99131306121046%
+  divcorr weight:	0.002861005%
+  optimize weight:	-0.000454673%
+************************************************************************************************************************
+GG5-2020-12-31-022212.result
+Worst neutral-meta return:	interval4	1.47284250512295%
+  Netting return to Daily:	3.43985036920914%
+  Netting return to Daily long/equal short:	1.68250917115454%
+  Netting return to Daily long/equal short2:	0.409313092501129%
+  Netting return to WAVE:	2.02034030024292
+  Netting return to WAVE: long/equal short:	1.67886687124644%
+  Netting return to WAVE: long/equal short2:	2.24704368184464%
+  divcorr weight:	0.02687235%
+  optimize weight:	0.0357919%
+************************************************************************************************************************
+GG5-2020-12-31-031701.result
+Worst neutral-meta return:	interval4	-0.76902562192623%
+  Netting return to Daily:	1.92479386086335%
+  Netting return to Daily long/equal short:	2.09233522909328%
+  Netting return to Daily long/equal short2:	-0.300286656995774%
+  Netting return to WAVE:	3.11035115840164
+  Netting return to WAVE: long/equal short:	4.10258302404189%
+  Netting return to WAVE: long/equal short2:	1.81604914388621%
+  divcorr weight:	0.003035765%
+  optimize weight:	0.010777675%
+************************************************************************************************************************
+GG6-2020-12-30-143629.result
+Worst neutral-meta return:	interval4	-4.45691785245902%
+  Netting return to Daily:	-1.10313846121823%
+  Netting return to Daily long/equal short:	-3.56970771511708%
+  Netting return to Daily long/equal short2:	-1.34922710702467%
+  Netting return to WAVE:	1.50259036649887
+  Netting return to WAVE: long/equal short:	-0.28864542002842%
+  Netting return to WAVE: long/equal short2:	6.50420099853334%
+************************************************************************************************************************
+GG6-2020-12-30-144509.result
+Worst neutral-meta return:	interval4	-7.03252592725409%
+  Netting return to Daily:	-0.458355666826011%
+  Netting return to Daily long/equal short:	-0.498636576492506%
+  Netting return to Daily long/equal short2:	-1.60025985875149%
+  Netting return to WAVE:	1.79982092569648
+  Netting return to WAVE: long/equal short:	3.06945173342933%
+  Netting return to WAVE: long/equal short2:	3.13358460687577%
+************************************************************************************************************************
+GG6-2020-12-30-152658.result
+Worst neutral-meta return:	interval4	-10.2283020891394%
+  Netting return to Daily:	-3.80557649949769%
+  Netting return to Daily long/equal short:	-4.07711949332996%
+  Netting return to Daily long/equal short2:	-0.271372756511461%
+  Netting return to WAVE:	1.19261058347402
+  Netting return to WAVE: long/equal short:	1.47006715206365%
+  Netting return to WAVE: long/equal short2:	7.66468971862134%
+************************************************************************************************************************
+GG6-2020-12-30-153043.result
+Worst neutral-meta return:	interval4	-5.31694351536885%
+  Netting return to Daily:	-1.0894436768022%
+  Netting return to Daily long/equal short:	-0.993691416000873%
+  Netting return to Daily long/equal short2:	-3.0295352958086%
+  Netting return to WAVE:	1.37592738275061
+  Netting return to WAVE: long/equal short:	2.10348164943969%
+  Netting return to WAVE: long/equal short2:	1.10400203143023%
+************************************************************************************************************************
+GG6-2020-12-30-153747.result
+Worst neutral-meta return:	interval4	-7.59032056557377%
+  Netting return to Daily:	-1.88117138423564%
+  Netting return to Daily long/equal short:	-0.570607100136756%
+  Netting return to Daily long/equal short2:	-5.5518472200979%
+  Netting return to WAVE:	1.3133692093649
+  Netting return to WAVE: long/equal short:	2.62196808115561%
+  Netting return to WAVE: long/equal short2:	0.995198813882164%
+************************************************************************************************************************
+GG6-2020-12-30-153937.result
+Worst neutral-meta return:	interval4	-12.5869749887295%
+  Netting return to Daily:	-4.61879721181257%
+  Netting return to Daily long/equal short:	-4.64012871719348%
+  Netting return to Daily long/equal short2:	-2.04812685934177%
+  Netting return to WAVE:	-1.75429720557792
+  Netting return to WAVE: long/equal short:	-1.23749379039638%
+  Netting return to WAVE: long/equal short2:	0.265093839756587%
+  divcorr weight:	0.01453875%
+  optimize weight:	-0.00905923%
+************************************************************************************************************************
+GG6-2020-12-30-161635.result
+Worst neutral-meta return:	interval4	0.941161739754098%
+  Netting return to Daily:	3.41508038891697%
+  Netting return to Daily long/equal short:	1.0263077577207%
+  Netting return to Daily long/equal short2:	-5.6078734786174%
+  Netting return to WAVE:	3.97044122253703
+  Netting return to WAVE: long/equal short:	2.81748712265008%
+  Netting return to WAVE: long/equal short2:	4.14627102706461%
+  divcorr weight:	0.007637815%
+  optimize weight:	-0.013631975%
+************************************************************************************************************************
+GG6-2020-12-30-162450.result
+Worst neutral-meta return:	interval4	-1.69154344979508%
+  Netting return to Daily:	1.82858710621441%
+  Netting return to Daily long/equal short:	3.05577860125549%
+  Netting return to Daily long/equal short2:	-0.452260931722934%
+  Netting return to WAVE:	3.13559522978558
+  Netting return to WAVE: long/equal short:	4.44770054537236%
+  Netting return to WAVE: long/equal short2:	5.02827316226921%
+  divcorr weight:	0.0121169%
+  optimize weight:	0.0262556%
+************************************************************************************************************************
+GG6-2020-12-30-193020.result
+Worst neutral-meta return:	interval4	-5.75783383196722%
+  Netting return to Daily:	-0.0411534917279462%
+  Netting return to Daily long/equal short:	-0.157306357222841%
+  Netting return to Daily long/equal short2:	-2.74357285815017%
+  Netting return to WAVE:	1.50268757731325
+  Netting return to WAVE: long/equal short:	2.13635710752507%
+  Netting return to WAVE: long/equal short2:	6.10263105339969%
+  divcorr weight:	0.003985215%
+  optimize weight:	0.0131266%
+************************************************************************************************************************
+GG6-2020-12-31-002321.result
+Worst neutral-meta return:	interval4	-2.59174172704918%
+  Netting return to Daily:	1.20004947872714%
+  Netting return to Daily long/equal short:	0.330556287148049%
+  Netting return to Daily long/equal short2:	-3.6064404042971%
+  Netting return to WAVE:	1.92265721682883
+  Netting return to WAVE: long/equal short:	2.85933187282769%
+  Netting return to WAVE: long/equal short2:	7.84595834812159%
+  divcorr weight:	0.03083545%
+  optimize weight:	-0.001760955%
+************************************************************************************************************************
+GG6-2020-12-31-002831.result
+Worst neutral-meta return:	interval4	-4.14473294057377%
+  Netting return to Daily:	2.35088684834294%
+  Netting return to Daily long/equal short:	0.118824921839475%
+  Netting return to Daily long/equal short2:	-5.53853307511848%
+  Netting return to WAVE:	1.49766132449641
+  Netting return to WAVE: long/equal short:	0.662086681171654%
+  Netting return to WAVE: long/equal short2:	2.22122786199191%
+  divcorr weight:	0.003044375%
+  optimize weight:	-0.02531165%
+************************************************************************************************************************
+GG6-2020-12-31-014024.result
+Worst neutral-meta return:	interval	3.8128725%
+  Netting return to Daily:	5.21036665702255%
+  Netting return to Daily long/equal short:	2.77191320835429%
+  Netting return to Daily long/equal short2:	0.782934275711259%
+  Netting return to WAVE:	4.61851031734793
+  Netting return to WAVE: long/equal short:	2.94128633035926%
+  Netting return to WAVE: long/equal short2:	8.3284639537656%
+  divcorr weight:	0.02589075%
+  optimize weight:	0.028054%
+************************************************************************************************************************
+GG6-2020-12-31-014801.result
+Worst neutral-meta return:	interval4	-11.172999102459%
+  Netting return to Daily:	-1.84403959362852%
+  Netting return to Daily long/equal short:	-2.74555044004787%
+  Netting return to Daily long/equal short2:	-2.48439673654471%
+  Netting return to WAVE:	-0.319406932666967
+  Netting return to WAVE: long/equal short:	-1.09451982796064%
+  Netting return to WAVE: long/equal short2:	4.53592415796507%
+  divcorr weight:	0.00411603%
+  optimize weight:	-0.0284485%
+************************************************************************************************************************
+GG6-2020-12-31-025819.result
+Worst neutral-meta return:	interval4	-4.45999365778689%
+  Netting return to Daily:	-0.0627841498561998%
+  Netting return to Daily long/equal short:	-1.9786021452216%
+  Netting return to Daily long/equal short2:	-1.89117980850888%
+  Netting return to WAVE:	1.95882474484948
+  Netting return to WAVE: long/equal short:	1.48695912356675%
+  Netting return to WAVE: long/equal short2:	-2.18689732949606%
+  divcorr weight:	0.02826745%
+  optimize weight:	0.01839705%
+************************************************************************************************************************
+GG6-2020-12-31-031539.result
+Worst neutral-meta return:	interval4	-1.51704566803279%
+  Netting return to Daily:	1.53007818185826%
+  Netting return to Daily long/equal short:	1.28658320805133%
+  Netting return to Daily long/equal short2:	0.923594828743147%
+  Netting return to WAVE:	2.92398403600211
+  Netting return to WAVE: long/equal short:	3.68091111274626%
+  Netting return to WAVE: long/equal short2:	-0.375510023718769%
+  divcorr weight:	0.002899565%
+  optimize weight:	0.00754639%
+************************************************************************************************************************
+GG7-2020-12-30-105840.result
+Worst neutral-meta return:	interval4	2.54782200717213%
+  Netting return to Daily:	7.59890809586212%
+  Netting return to Daily long/equal short:	-10.7621840883076%
+  Netting return to Daily long/equal short2:	6.08950073540207%
+  Netting return to WAVE:	6.07205762310078
+  Netting return to WAVE: long/equal short:	-9.74606063713419%
+  Netting return to WAVE: long/equal short2:	8.08004974582344%
+  divcorr weight:	0.07592645%
+************************************************************************************************************************
+GG7-2020-12-30-141029.result
+Worst neutral-meta return:	interval4	-11.1438822633197%
+  Netting return to Daily:	-3.10435649613955%
+  Netting return to Daily long/equal short:	-0.72475236177346%
+  Netting return to Daily long/equal short2:	-3.39584210948305%
+  Netting return to WAVE:	0.844280257281776
+  Netting return to WAVE: long/equal short:	1.87759630174396%
+  Netting return to WAVE: long/equal short2:	7.2425942718988%
+  divcorr weight:	0.009800815%
+  optimize weight:	-0.009552385%
+************************************************************************************************************************
+GG7-2020-12-30-142950.result
+Worst neutral-meta return:	interval4	1.96865830020492%
+  Netting return to Daily:	6.34457525847106%
+  Netting return to Daily long/equal short:	5.98589423033635%
+  Netting return to Daily long/equal short2:	-2.36072722447818%
+  Netting return to WAVE:	4.57101305425907
+  Netting return to WAVE: long/equal short:	4.99399572051195%
+  Netting return to WAVE: long/equal short2:	7.88797852825246%
+  divcorr weight:	0.1055233%
+  optimize weight:	0.0233771%
+************************************************************************************************************************
+GG7-2020-12-30-143633.result
+Worst neutral-meta return:	interval4	-9.19448295081968%
+  Netting return to Daily:	-3.98014538857873%
+  Netting return to Daily long/equal short:	-6.28069842324485%
+  Netting return to Daily long/equal short2:	-5.16800352454577%
+  Netting return to WAVE:	1.16334984714955
+  Netting return to WAVE: long/equal short:	-1.62093385367316%
+  Netting return to WAVE: long/equal short2:	4.86851332750231%
+************************************************************************************************************************
+GG7-2020-12-30-144326.result
+Worst neutral-meta return:	interval4	-16.9485933422131%
+  Netting return to Daily:	-9.16653320367451%
+  Netting return to Daily long/equal short:	-11.3700299928083%
+  Netting return to Daily long/equal short2:	-7.43058730140846%
+  Netting return to WAVE:	-1.96247391680901
+  Netting return to WAVE: long/equal short:	-4.57916367577477%
+  Netting return to WAVE: long/equal short2:	5.58863360979765%
+************************************************************************************************************************
+GG7-2020-12-30-151118.result
+Worst neutral-meta return:	interval4	-6.72450950184427%
+  Netting return to Daily:	0.66075987227842%
+  Netting return to Daily long/equal short:	-0.190575497371004%
+  Netting return to Daily long/equal short2:	-0.220197629855894%
+  Netting return to WAVE:	2.99672294504962
+  Netting return to WAVE: long/equal short:	2.29659665105531%
+  Netting return to WAVE: long/equal short2:	8.65225252566286%
+************************************************************************************************************************
+GG7-2020-12-30-152728.result
+Worst neutral-meta return:	interval4	-5.65851845286886%
+  Netting return to Daily:	-0.270868310814759%
+  Netting return to Daily long/equal short:	0.571493261214474%
+  Netting return to Daily long/equal short2:	-4.23349399385989%
+  Netting return to WAVE:	2.49505593799892
+  Netting return to WAVE: long/equal short:	2.97069711185251%
+  Netting return to WAVE: long/equal short2:	6.67023197350831%
+************************************************************************************************************************
+GG7-2020-12-30-153203.result
+Worst neutral-meta return:	interval4	-12.5669747745902%
+  Netting return to Daily:	-3.69555484470013%
+  Netting return to Daily long/equal short:	-5.69542218664513%
+  Netting return to Daily long/equal short2:	-7.39502577101189%
+  Netting return to WAVE:	0.27825133288773
+  Netting return to WAVE: long/equal short:	-0.995809776077276%
+  Netting return to WAVE: long/equal short2:	12.0838373545784%
+************************************************************************************************************************
+GG7-2020-12-30-160219.result
+Worst neutral-meta return:	interval4	-9.93396154713115%
+  Netting return to Daily:	-0.778368540197585%
+  Netting return to Daily long/equal short:	-2.22981877367764%
+  Netting return to Daily long/equal short2:	-0.661349982159571%
+  Netting return to WAVE:	-0.141861215699455
+  Netting return to WAVE: long/equal short:	-0.434231054083372%
+  Netting return to WAVE: long/equal short2:	6.45050801688877%
+  divcorr weight:	0.004380565%
+  optimize weight:	-0.0155004%
+************************************************************************************************************************
+GG7-2020-12-30-162301.result
+Worst neutral-meta return:	interval4	-5.16374579610656%
+  Netting return to Daily:	-0.205059952357111%
+  Netting return to Daily long/equal short:	1.23016955473398%
+  Netting return to Daily long/equal short2:	-0.365177519770836%
+  Netting return to WAVE:	0.587399009155213
+  Netting return to WAVE: long/equal short:	2.77151843303707%
+  Netting return to WAVE: long/equal short2:	7.18443767414769%
+************************************************************************************************************************
+GG7-2020-12-30-163503.result
+Worst neutral-meta return:	interval4	-6.9164638022541%
+  Netting return to Daily:	-1.66664762855628%
+  Netting return to Daily long/equal short:	-0.757914272241617%
+  Netting return to Daily long/equal short2:	-4.17903282951226%
+  Netting return to WAVE:	1.01251986597942
+  Netting return to WAVE: long/equal short:	1.86411737157491%
+  Netting return to WAVE: long/equal short2:	-1.40483490239785%
+  divcorr weight:	0.00603534%
+  optimize weight:	-0.00631571%
+************************************************************************************************************************
+GG7-2020-12-30-185433.result
+Worst neutral-meta return:	interval4	-5.99631193442623%
+  Netting return to Daily:	-0.904694197877846%
+  Netting return to Daily long/equal short:	-0.0698466758157386%
+  Netting return to Daily long/equal short2:	1.39018676644915%
+  Netting return to WAVE:	2.05269193478676
+  Netting return to WAVE: long/equal short:	2.77087602975349%
+  Netting return to WAVE: long/equal short2:	4.31421222352932%
+  divcorr weight:	0.01952955%
+  optimize weight:	0.0351672%
+************************************************************************************************************************
+GG7-2020-12-30-202526.result
+Worst neutral-meta return:	interval4	-7.38623055327869%
+  Netting return to Daily:	-0.523094888237353%
+  Netting return to Daily long/equal short:	-1.25210144286693%
+  Netting return to Daily long/equal short2:	-4.34850681014926%
+  Netting return to WAVE:	0.822622533249815
+  Netting return to WAVE: long/equal short:	0.504277388246796%
+  Netting return to WAVE: long/equal short2:	2.03001017771887%
+  divcorr weight:	0.00559348%
+  optimize weight:	-0.02901555%
+************************************************************************************************************************
+GG7-2020-12-30-203244.result
+Worst neutral-meta return:	interval4	-10.1384801127049%
+  Netting return to Daily:	-4.44971975201535%
+  Netting return to Daily long/equal short:	-4.69978056418564%
+  Netting return to Daily long/equal short2:	-8.8220495935708%
+  Netting return to WAVE:	-1.50210111011848
+  Netting return to WAVE: long/equal short:	-0.606727040638918%
+  Netting return to WAVE: long/equal short2:	7.01334611629452%
+  divcorr weight:	0.0116237%
+  optimize weight:	-0.0206838%
+************************************************************************************************************************
+GG7-2020-12-30-221737.result
+Worst neutral-meta return:	interval4	-7.49937932172132%
+  Netting return to Daily:	-0.763005517394467%
+  Netting return to Daily long/equal short:	-3.57094037061807%
+  Netting return to Daily long/equal short2:	-1.82611025542555%
+  Netting return to WAVE:	0.344930146567081
+  Netting return to WAVE: long/equal short:	-1.53505692916071%
+  Netting return to WAVE: long/equal short2:	1.04440885465628%
+  divcorr weight:	0.003754075%
+  optimize weight:	0.002382675%
+************************************************************************************************************************
+GG7-2020-12-30-233630.result
+Worst neutral-meta return:	interval	-8.03084298463115%
+  Netting return to Daily:	-0.388645741231016%
+  Netting return to Daily long/equal short:	1.1489039681538%
+  Netting return to Daily long/equal short2:	-4.28289373004051%
+  Netting return to WAVE:	-0.501236395717637
+  Netting return to WAVE: long/equal short:	1.69555576489775%
+  Netting return to WAVE: long/equal short2:	3.56093946195067%
+  divcorr weight:	0.00210951%
+  optimize weight:	0.0140574%
+************************************************************************************************************************
+GG7-2020-12-31-002243.result
+Worst neutral-meta return:	interval4	-4.87861569057377%
+  Netting return to Daily:	2.15058046229914%
+  Netting return to Daily long/equal short:	0.823404568108636%
+  Netting return to Daily long/equal short2:	-5.4387769987782%
+  Netting return to WAVE:	3.1872188564308
+  Netting return to WAVE: long/equal short:	2.89779351145376%
+  Netting return to WAVE: long/equal short2:	2.95362337297665%
+  divcorr weight:	0.00166911%
+  optimize weight:	-0.03464905%
+************************************************************************************************************************
+GG7-2020-12-31-004130.result
+Worst neutral-meta return:	interval4	-0.401285317622952%
+  Netting return to Daily:	3.02972302857923%
+  Netting return to Daily long/equal short:	2.46235354023609%
+  Netting return to Daily long/equal short2:	-3.38347123799199%
+  Netting return to WAVE:	1.87098123012551
+  Netting return to WAVE: long/equal short:	3.28050707650352%
+  Netting return to WAVE: long/equal short2:	7.90060429744326%
+  divcorr weight:	0.01666205%
+  optimize weight:	-0.0039832155%
+************************************************************************************************************************
+GG7-2020-12-31-014609.result
+Worst neutral-meta return:	interval4	-12.7462502223361%
+  Netting return to Daily:	-3.7991012602924%
+  Netting return to Daily long/equal short:	-5.46407910466376%
+  Netting return to Daily long/equal short2:	-4.46598880815901%
+  Netting return to WAVE:	-1.36507447233192
+  Netting return to WAVE: long/equal short:	-0.90332946069025%
+  Netting return to WAVE: long/equal short2:	0.925725089642421%
+  divcorr weight:	0.00202352%
+  optimize weight:	-0.03165135%
+************************************************************************************************************************
+GG7-2020-12-31-014659.result
+Worst neutral-meta return:	interval4	-1.67704542930328%
+  Netting return to Daily:	2.28631871000888%
+  Netting return to Daily long/equal short:	1.40156701226579%
+  Netting return to Daily long/equal short2:	0.426526126689136%
+  Netting return to WAVE:	4.05926265934733
+  Netting return to WAVE: long/equal short:	3.31046747361144%
+  Netting return to WAVE: long/equal short2:	5.59989515767824%
+  divcorr weight:	0.007575705%
+  optimize weight:	0.00566675%
+************************************************************************************************************************
+GG7-2020-12-31-015551.result
+Worst neutral-meta return:	interval4	-9.36207023565574%
+  Netting return to Daily:	0.621845282316431%
+  Netting return to Daily long/equal short:	-0.67807148764184%
+  Netting return to Daily long/equal short2:	-2.04022376353812%
+  Netting return to WAVE:	-0.943986887964925
+  Netting return to WAVE: long/equal short:	-0.961227534527033%
+  Netting return to WAVE: long/equal short2:	2.06525209134589%
+  divcorr weight:	0.00628677%
+  optimize weight:	-0.0163053%
+************************************************************************************************************************
+GG7-2020-12-31-020159.result
+Worst neutral-meta return:	interval4	-9.80983469262295%
+  Netting return to Daily:	-1.69092352853517%
+  Netting return to Daily long/equal short:	-2.06353151425542%
+  Netting return to Daily long/equal short2:	0.107706401254459%
+  Netting return to WAVE:	-1.0433186322178
+  Netting return to WAVE: long/equal short:	-0.360971835492594%
+  Netting return to WAVE: long/equal short2:	4.83502107082019%
+  divcorr weight:	0.0145382%
+  optimize weight:	-0.01066284%
+************************************************************************************************************************

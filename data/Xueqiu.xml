@@ -1,0 +1,18 @@
+<cqfunds>
+    <stockdata>
+        <dataname datapath="XueqiuConcernNoon" datasize="1*4096" datastorage="48.00M">XueqiuConcernNoon.data3</dataname>
+        <dataname datapath="XueqiuConcernNoon" datasize="1*4096" datastorage="48.00M">XueqiuConcernNoon.data4</dataname>
+        <dataname datapath="XueqiuConcernNoon" datasize="1*4096" datastorage="48.00M">XueqiuConcernNoon.data6</dataname>
+        <dataname datapath="XueqiuConcernNoon" datasize="1*4096" datastorage="48.00M">XueqiuConcernNoon.data2</dataname>
+        <dataname datapath="XueqiuConcernNoon" datasize="1*4096" datastorage="48.00M">XueqiuConcernNoon.data1</dataname>
+        <dataname datapath="XueqiuConcernNoon" datasize="1*4096" datastorage="48.00M">XueqiuConcernNoon.data5</dataname>
+    </stockdata>
+    <stockdata>
+        <dataname datapath="XueqiuConcern" datasize="1*4096" datastorage="48.00M">XueqiuConcern.data4</dataname>
+        <dataname datapath="XueqiuConcern" datasize="1*4096" datastorage="48.00M">XueqiuConcern.data3</dataname>
+        <dataname datapath="XueqiuConcern" datasize="1*4096" datastorage="48.00M">XueqiuConcern.data5</dataname>
+        <dataname datapath="XueqiuConcern" datasize="1*4096" datastorage="48.00M">XueqiuConcern.data6</dataname>
+        <dataname datapath="XueqiuConcern" datasize="1*4096" datastorage="48.00M">XueqiuConcern.data1</dataname>
+        <dataname datapath="XueqiuConcern" datasize="1*4096" datastorage="48.00M">XueqiuConcern.data2</dataname>
+    </stockdata>
+</cqfunds>

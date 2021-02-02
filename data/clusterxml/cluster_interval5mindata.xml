@@ -1,0 +1,327 @@
+<cqfunds>
+    <stockdata>
+        <cluster>0</cluster>
+        <dataname datapath="Intervalbidask12stats" datasize="49*4096" datastorage="1.04G">Intervalbidask12stats.skewasksize12</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.pct_smallOrderNum</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.diff_buySellAmount</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.diff_buySellSize</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.pct_buy</dataname>
+        <dataname datapath="Intervalstats2" datasize="49*4096" datastorage="2.30G">Intervalstats2.corr_pb</dataname>
+        <dataname datapath="Intervalstats2" datasize="49*4096" datastorage="2.30G">Intervalstats2.per_pGoUp</dataname>
+        <dataname datapath="Intervalstats2" datasize="49*4096" datastorage="2.30G">Intervalstats2.num_vol1</dataname>
+        <dataname datapath="Intervalstats2" datasize="49*4096" datastorage="2.30G">Intervalstats2.corr_pv</dataname>
+        <dataname datapath="Intervalstats2" datasize="49*4096" datastorage="2.30G">Intervalstats2.per_vol_highP</dataname>
+        <dataname datapath="Intervalstatsbidask5" datasize="49*4096" datastorage="2.30G">Intervalstatsbidask5.bidImpact_a</dataname>
+        <dataname datapath="Intervalstatsbidask5" datasize="49*4096" datastorage="2.30G">Intervalstatsbidask5.ask_largeSpread_per</dataname>
+        <dataname datapath="Intervalstatsbidask5" datasize="49*4096" datastorage="2.30G">Intervalstatsbidask5.bid_largeSpread_per</dataname>
+        <dataname datapath="Intervalstatsbidask5" datasize="49*4096" datastorage="2.30G">Intervalstatsbidask5.impact_b</dataname>
+        <dataname datapath="Intervaldetailbidsplit" datasize="49*4096" datastorage="1.53G">Intervaldetailbidsplit.pctvbidsplit1</dataname>
+        <dataname datapath="Intervaldetailbidsplit" datasize="49*4096" datastorage="1.53G">Intervaldetailbidsplit.avgflagbid</dataname>
+        <dataname datapath="Intervaldetailbidsplit" datasize="49*4096" datastorage="1.53G">Intervaldetailbidsplit.pctvbidsplit5</dataname>
+        <dataname datapath="Intervalextendstats2" datasize="49*4096" datastorage="2.30G">Intervalextendstats2.pct_bid510</dataname>
+        <dataname datapath="Intervalextendstats2" datasize="49*4096" datastorage="2.30G">Intervalextendstats2.pct_ask510</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.pct_smallOrderNum</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.diff_buySellAmount</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.diff_buySellSize</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.pct_buy</dataname>
+        <dataname datapath="Intervalstats7b" datasize="49*4096" datastorage="2.30G">Intervalstats7b.vwa_resi_aRegr10_pd</dataname>
+        <dataname datapath="Intervalstats7b" datasize="49*4096" datastorage="2.30G">Intervalstats7b.v-std_pd</dataname>
+        <dataname datapath="Intervalstats7b" datasize="49*4096" datastorage="2.30G">Intervalstats7b.vwa_resi_aRegr10_p</dataname>
+        <dataname datapath="Intervalstats7b" datasize="49*4096" datastorage="2.30G">Intervalstats7b.score_cumsell</dataname>
+        <dataname datapath="Intervaldetailsellret" datasize="49*4096" datastorage="1.53G">Intervaldetailsellret.skewsellret</dataname>
+        <dataname datapath="Intervaldetailsellret" datasize="49*4096" datastorage="1.53G">Intervaldetailsellret.kurtsellret</dataname>
+        <dataname datapath="Intervaldetailedstats" datasize="49*4096" datastorage="1.53G">Intervaldetailedstats.vwAskPriceRate</dataname>
+        <dataname datapath="Intervaldetailedstats" datasize="49*4096" datastorage="1.53G">Intervaldetailedstats.vwBidPriceRate</dataname>
+        <dataname datapath="Intervalqueuestats" datasize="49*4096" datastorage="2.30G">Intervalqueuestats.mean_singleOrderSize</dataname>
+        <dataname datapath="Intervalqueuestats" datasize="49*4096" datastorage="2.30G">Intervalqueuestats.absDev_singleBuySize</dataname>
+        <dataname datapath="Intervalqueuestats" datasize="49*4096" datastorage="2.30G">Intervalqueuestats.absDev_singleOrderSize</dataname>
+        <dataname datapath="Intervalqueuestats" datasize="49*4096" datastorage="2.30G">Intervalqueuestats.absDev_singleSellSize</dataname>
+        <dataname datapath="Intervaldetailbuyret" datasize="49*4096" datastorage="1.53G">Intervaldetailbuyret.skewbuyret</dataname>
+        <dataname datapath="Intervaldetailbuyret" datasize="49*4096" datastorage="1.53G">Intervaldetailbuyret.kurtbuyret</dataname>
+        <dataname datapath="Intervalstatsbidask3a" datasize="49*4096" datastorage="2.30G">Intervalstatsbidask3a.corr_b123v_vol</dataname>
+        <dataname datapath="Intervalstatsbidask4" datasize="49*4096" datastorage="2.30G">Intervalstatsbidask4.instAction_ask1diff</dataname>
+        <dataname datapath="IntervalData5min" datasize="49*4096" datastorage="2.30G">interval_mm</dataname>
+        <dataname datapath="Intervalstats13" datasize="49*4096" datastorage="2.30G">Intervalstats13.vol_mean</dataname>
+    </stockdata>
+    <stockdata>
+        <cluster>1</cluster>
+        <dataname datapath="Intervalbidask12stats" datasize="49*4096" datastorage="1.04G">Intervalbidask12stats.skewbid12</dataname>
+        <dataname datapath="Intervalbidask12stats" datasize="49*4096" datastorage="1.04G">Intervalbidask12stats.skewbidsize12</dataname>
+        <dataname datapath="Intervalstats2" datasize="49*4096" datastorage="2.30G">Intervalstats2.per_buy</dataname>
+        <dataname datapath="Intervalstatsbidask5" datasize="49*4096" datastorage="2.30G">Intervalstatsbidask5.askImpact_a</dataname>
+        <dataname datapath="Intervalstatsbidask5" datasize="49*4096" datastorage="2.30G">Intervalstatsbidask5.impact_a</dataname>
+        <dataname datapath="Intervalstatsbidask5" datasize="49*4096" datastorage="2.30G">Intervalstatsbidask5.bidImpact_b</dataname>
+        <dataname datapath="Intervalstatsbidask5" datasize="49*4096" datastorage="2.30G">Intervalstatsbidask5.askImpact_b</dataname>
+        <dataname datapath="Intervalstats7b" datasize="49*4096" datastorage="2.30G">Intervalstats7b.score_cumbuy</dataname>
+        <dataname datapath="Intervaldetailsellret" datasize="49*4096" datastorage="1.53G">Intervaldetailsellret.avgsellret</dataname>
+        <dataname datapath="Intervaldetailedstats" datasize="49*4096" datastorage="1.53G">Intervaldetailedstats.bidWaitTime</dataname>
+        <dataname datapath="Intervaldetailedstats" datasize="49*4096" datastorage="1.53G">Intervaldetailedstats.vwBidLongWait</dataname>
+        <dataname datapath="Intervalqueuestats" datasize="49*4096" datastorage="2.30G">Intervalqueuestats.mean_singleSellAmount</dataname>
+        <dataname datapath="Intervalqueuestats" datasize="49*4096" datastorage="2.30G">Intervalqueuestats.mean_singleOrderAmount</dataname>
+        <dataname datapath="Intervalqueuestats" datasize="49*4096" datastorage="2.30G">Intervalqueuestats.mean_singleBuyAmount</dataname>
+        <dataname datapath="Intervalbidaskextendstats" datasize="49*4096" datastorage="2.30G">Intervalbidaskextendstats.pct_bidsize11</dataname>
+        <dataname datapath="Intervalbidaskextendstats" datasize="49*4096" datastorage="2.30G">Intervalbidaskextendstats.pct_bidsize611</dataname>
+        <dataname datapath="Intervalbidaskextendstats" datasize="49*4096" datastorage="2.30G">Intervalbidaskextendstats.pct_asksize611</dataname>
+        <dataname datapath="Intervalbidaskextendstats" datasize="49*4096" datastorage="2.30G">Intervalbidaskextendstats.pct_asksize11</dataname>
+        <dataname datapath="Intervaldetailbuyret" datasize="49*4096" datastorage="1.53G">Intervaldetailbuyret.avgbuyret</dataname>
+        <dataname datapath="Intervalstats" datasize="49*4096" datastorage="2.30G">Intervalstats.return_p</dataname>
+        <dataname datapath="Intervalstats" datasize="49*4096" datastorage="2.30G">Intervalstats.kurt_p</dataname>
+        <dataname datapath="Intervalstats" datasize="49*4096" datastorage="2.30G">Intervalstats.skew_pd</dataname>
+        <dataname datapath="Intervalstats" datasize="49*4096" datastorage="2.30G">Intervalstats.skew_p</dataname>
+        <dataname datapath="Intervalstats12" datasize="49*4096" datastorage="2.30G">Intervalstats12.instAction_goup</dataname>
+        <dataname datapath="Intervalstats12" datasize="49*4096" datastorage="2.30G">Intervalstats12.instAction_godown</dataname>
+        <dataname datapath="Intervalstatsbidask3a" datasize="49*4096" datastorage="2.30G">Intervalstatsbidask3a.corr_ba1v</dataname>
+        <dataname datapath="Intervalstatsbidask3a" datasize="49*4096" datastorage="2.30G">Intervalstatsbidask3a.corr_ba123v</dataname>
+        <dataname datapath="Intervalstatsbidask3a" datasize="49*4096" datastorage="2.30G">Intervalstatsbidask3a.corr_gap_a123v_2</dataname>
+        <dataname datapath="Intervalstatsbidask3a" datasize="49*4096" datastorage="2.30G">Intervalstatsbidask3a.corr_a1v_vol</dataname>
+        <dataname datapath="Intervalstatsbidask3a" datasize="49*4096" datastorage="2.30G">Intervalstatsbidask3a.corr_a123v_vol</dataname>
+        <dataname datapath="Intervalstatsbidask3a" datasize="49*4096" datastorage="2.30G">Intervalstatsbidask3a.corr_b1v_vol</dataname>
+        <dataname datapath="Intervaldetailasksplit" datasize="49*4096" datastorage="1.53G">Intervaldetailasksplit.avgflagask</dataname>
+        <dataname datapath="Intervaldetailasksplit" datasize="49*4096" datastorage="1.53G">Intervaldetailasksplit.pctvasksplit5</dataname>
+        <dataname datapath="Intervalstatsbidask4" datasize="49*4096" datastorage="2.30G">Intervalstatsbidask4.instAction_ask1</dataname>
+        <dataname datapath="Intervalstatsbidask4" datasize="49*4096" datastorage="2.30G">Intervalstatsbidask4.instAction_bid1</dataname>
+        <dataname datapath="Intervalextendstats" datasize="49*4096" datastorage="2.30G">Intervalextendstats.corr_ask_price</dataname>
+        <dataname datapath="Intervalextendstats" datasize="49*4096" datastorage="2.30G">Intervalextendstats.pct_bid1</dataname>
+        <dataname datapath="Intervalextendstats" datasize="49*4096" datastorage="2.30G">Intervalextendstats.corr_asksize_returns</dataname>
+        <dataname datapath="Intervalextendstats" datasize="49*4096" datastorage="2.30G">Intervalextendstats.corr_bidsize_returns</dataname>
+    </stockdata>
+    <stockdata>
+        <cluster>2</cluster>
+        <dataname datapath="Intervalbidask12stats" datasize="49*4096" datastorage="1.04G">Intervalbidask12stats.stdask12</dataname>
+        <dataname datapath="Intervalbidask12stats" datasize="49*4096" datastorage="1.04G">Intervalbidask12stats.stdbid12</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.orderVwap</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.sellVwap</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.buyVwap</dataname>
+        <dataname datapath="Intervalstats2" datasize="49*4096" datastorage="2.30G">Intervalstats2.vwap_bs</dataname>
+        <dataname datapath="Intervalstats2" datasize="49*4096" datastorage="2.30G">Intervalstats2.vwap_vol100</dataname>
+        <dataname datapath="Intervaldetailbidsplit" datasize="49*4096" datastorage="1.53G">Intervaldetailbidsplit.maxPdiffbid</dataname>
+        <dataname datapath="Intervaldetailbidsplit" datasize="49*4096" datastorage="1.53G">Intervaldetailbidsplit.avgPdiffbid</dataname>
+        <dataname datapath="Intervaldetailbidsplit" datasize="49*4096" datastorage="1.53G">Intervaldetailbidsplit.numBigPdiffbid</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.orderVwap</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.sellVwap</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.buyVwap</dataname>
+        <dataname datapath="Intervaldetailupdownstats" datasize="49*4096" datastorage="1.53G">Intervaldetailupdownstats.upvwap</dataname>
+        <dataname datapath="Intervaldetailupdownstats" datasize="49*4096" datastorage="1.53G">Intervaldetailupdownstats.uptwap</dataname>
+        <dataname datapath="Intervaldetailupdownstats" datasize="49*4096" datastorage="1.53G">Intervaldetailupdownstats.dntwap</dataname>
+        <dataname datapath="Intervaldetailupdownstats" datasize="49*4096" datastorage="1.53G">Intervaldetailupdownstats.eqvwap</dataname>
+        <dataname datapath="Intervaldetailupdownstats" datasize="49*4096" datastorage="1.53G">Intervaldetailupdownstats.eqtwap</dataname>
+        <dataname datapath="Intervaldetailupdownstats" datasize="49*4096" datastorage="1.53G">Intervaldetailupdownstats.dnvwap</dataname>
+        <dataname datapath="Intervalstats" datasize="49*4096" datastorage="2.30G">Intervalstats.vwap_p</dataname>
+        <dataname datapath="Intervalstats" datasize="49*4096" datastorage="2.30G">Intervalstats.mean_p</dataname>
+        <dataname datapath="Intervalstats" datasize="49*4096" datastorage="2.30G">Intervalstats.mode_p</dataname>
+        <dataname datapath="Intervalstats" datasize="49*4096" datastorage="2.30G">Intervalstats.median_p</dataname>
+        <dataname datapath="Intervalstats" datasize="49*4096" datastorage="2.30G">Intervalstats.vwap_fs</dataname>
+        <dataname datapath="Intervalstats" datasize="49*4096" datastorage="2.30G">Intervalstats.std_p</dataname>
+        <dataname datapath="Intervaldetailasksplit" datasize="49*4096" datastorage="1.53G">Intervaldetailasksplit.avgPdiffask</dataname>
+        <dataname datapath="Intervaldetailasksplit" datasize="49*4096" datastorage="1.53G">Intervaldetailasksplit.maxPdiffask</dataname>
+        <dataname datapath="Intervaldetailasksplit" datasize="49*4096" datastorage="1.53G">Intervaldetailasksplit.numBigPdiffask</dataname>
+        <dataname datapath="IntervalData5min" datasize="49*4096" datastorage="2.30G">interval_high</dataname>
+        <dataname datapath="IntervalData5min" datasize="49*4096" datastorage="2.30G">last_vwap</dataname>
+        <dataname datapath="IntervalData5min" datasize="49*4096" datastorage="2.30G">last_high</dataname>
+        <dataname datapath="IntervalData5min" datasize="49*4096" datastorage="2.30G">last_low</dataname>
+        <dataname datapath="IntervalData5min" datasize="49*4096" datastorage="2.30G">interval_low</dataname>
+        <dataname datapath="IntervalData5min" datasize="49*4096" datastorage="2.30G">interval_twap</dataname>
+        <dataname datapath="IntervalData5min" datasize="49*4096" datastorage="2.30G">interval_bid</dataname>
+        <dataname datapath="IntervalData5min" datasize="49*4096" datastorage="2.30G">interval_vwap</dataname>
+        <dataname datapath="IntervalData5min" datasize="49*4096" datastorage="2.30G">last_price</dataname>
+        <dataname datapath="IntervalData5min" datasize="49*4096" datastorage="2.30G">interval_vola</dataname>
+        <dataname datapath="Intervalstats13" datasize="49*4096" datastorage="2.30G">Intervalstats13.low_price</dataname>
+        <dataname datapath="Intervalstats13" datasize="49*4096" datastorage="2.30G">Intervalstats13.high_price</dataname>
+    </stockdata>
+    <stockdata>
+        <cluster>3</cluster>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.smallSellSize</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.orderNum</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.smallBuyNum</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.smallOrderAmount</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.smallBuyAmount</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.smallOrderNum</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.smallBuySize</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.smallOrderSize</dataname>
+        <dataname datapath="Intervalstats2" datasize="49*4096" datastorage="2.30G">Intervalstats2.num_pchange</dataname>
+        <dataname datapath="Intervalstats2" datasize="49*4096" datastorage="2.30G">Intervalstats2.num_vol100</dataname>
+        <dataname datapath="Intervalstats2" datasize="49*4096" datastorage="2.30G">Intervalstats2.num_trade</dataname>
+        <dataname datapath="Intervalstats2" datasize="49*4096" datastorage="2.30G">Intervalstats2.sum_vol_highP</dataname>
+        <dataname datapath="Intervalstats2" datasize="49*4096" datastorage="2.30G">Intervalstats2.num_highP</dataname>
+        <dataname datapath="Intervalstats2" datasize="49*4096" datastorage="2.30G">Intervalstats2.num_mode</dataname>
+        <dataname datapath="Intervaldetailbidsplit" datasize="49*4096" datastorage="1.53G">Intervaldetailbidsplit.numbid</dataname>
+        <dataname datapath="Intervaldetailbidsplit" datasize="49*4096" datastorage="1.53G">Intervaldetailbidsplit.numbidsplit1</dataname>
+        <dataname datapath="Intervaldetailbidsplit" datasize="49*4096" datastorage="1.53G">Intervaldetailbidsplit.numlargebid</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.smallSellSize</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.orderNum</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.smallBuyNum</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.smallOrderAmount</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.smallBuyAmount</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.smallOrderNum</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.smallBuySize</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.smallOrderSize</dataname>
+        <dataname datapath="Intervaldetailupdownstats" datasize="49*4096" datastorage="1.53G">Intervaldetailupdownstats.dnsellnum</dataname>
+        <dataname datapath="Intervaldetailupdownstats" datasize="49*4096" datastorage="1.53G">Intervaldetailupdownstats.dnnum</dataname>
+        <dataname datapath="Intervaldetailupdownstats" datasize="49*4096" datastorage="1.53G">Intervaldetailupdownstats.upsellnum</dataname>
+        <dataname datapath="Intervaldetailedstats" datasize="49*4096" datastorage="1.53G">Intervaldetailedstats.highBpriceNum</dataname>
+        <dataname datapath="Intervaldetailedstats" datasize="49*4096" datastorage="1.53G">Intervaldetailedstats.lowApriceNum</dataname>
+        <dataname datapath="Intervaldetailedstats" datasize="49*4096" datastorage="1.53G">Intervaldetailedstats.bidLongWaitNum</dataname>
+        <dataname datapath="Intervaldetailedstats" datasize="49*4096" datastorage="1.53G">Intervaldetailedstats.askLongWaitNum</dataname>
+        <dataname datapath="Intervalqueuestats" datasize="49*4096" datastorage="2.30G">Intervalqueuestats.mean_buyOrderNum</dataname>
+        <dataname datapath="IntervalstatsGroupreturn" datasize="49*4096" datastorage="2.30G">IntervalstatsGroupreturn.ret_corr_sw</dataname>
+        <dataname datapath="IntervalstatsGroupreturn" datasize="49*4096" datastorage="2.30G">IntervalstatsGroupreturn.ret_corr_wind</dataname>
+        <dataname datapath="Intervalstats" datasize="49*4096" datastorage="2.30G">Intervalstats.sum_vol</dataname>
+        <dataname datapath="Intervaldetailasksplit" datasize="49*4096" datastorage="1.53G">Intervaldetailasksplit.numasksplit3</dataname>
+        <dataname datapath="Intervaldetailasksplit" datasize="49*4096" datastorage="1.53G">Intervaldetailasksplit.numasksplit5</dataname>
+        <dataname datapath="Intervaldetailasksplit" datasize="49*4096" datastorage="1.53G">Intervaldetailasksplit.numlargeask</dataname>
+        <dataname datapath="IntervalData5min" datasize="49*4096" datastorage="2.30G">interval_numoftrade</dataname>
+    </stockdata>
+    <stockdata>
+        <cluster>4</cluster>
+        <dataname datapath="Intervaldetailbidsplit" datasize="49*4096" datastorage="1.53G">Intervaldetailbidsplit.avgvbid</dataname>
+        <dataname datapath="Intervaldetailbidsplit" datasize="49*4096" datastorage="1.53G">Intervaldetailbidsplit.avgvbidsplit</dataname>
+        <dataname datapath="Intervaldetailbidsplit" datasize="49*4096" datastorage="1.53G">Intervaldetailbidsplit.avgbidsplit</dataname>
+        <dataname datapath="Intervaldetailbidsplit" datasize="49*4096" datastorage="1.53G">Intervaldetailbidsplit.avgvlargebid</dataname>
+        <dataname datapath="Intervaldetailedstats" datasize="49*4096" datastorage="1.53G">Intervaldetailedstats.bidVolumeRate</dataname>
+        <dataname datapath="Intervaldetailedstats" datasize="49*4096" datastorage="1.53G">Intervaldetailedstats.vwBidVolumeRate</dataname>
+        <dataname datapath="Intervalqueuestats" datasize="49*4096" datastorage="2.30G">Intervalqueuestats.mean_buyOrderAmount</dataname>
+        <dataname datapath="Intervaldetailasksplit" datasize="49*4096" datastorage="1.53G">Intervaldetailasksplit.pctvasksplit1</dataname>
+        <dataname datapath="IntervalData5min" datasize="49*4096" datastorage="2.30G">interval_bidsize</dataname>
+    </stockdata>
+    <stockdata>
+        <cluster>5</cluster>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.largeOrderNum</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.orderAmount</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.largeBuyNum</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.smallSellNum</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.largeSellAmount</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.buyAmount</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.sellSize</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.largeOrderAmount</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.largeSellNum</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.smallSellAmount</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.buySize</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.sellAmount</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.largeBuySize</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.largeBuyAmount</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.largeOrderSize</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.orderSize</dataname>
+        <dataname datapath="Intervalorderstatswave" datasize="49*4096" datastorage="2.30G">Intervalorderstats.largeSellSize</dataname>
+        <dataname datapath="Intervalstats2" datasize="49*4096" datastorage="2.30G">Intervalstats2.skew_vol</dataname>
+        <dataname datapath="Intervalstats2" datasize="49*4096" datastorage="2.30G">Intervalstats2.kurt_vol</dataname>
+        <dataname datapath="Intervaldetailbidsplit" datasize="49*4096" datastorage="1.53G">Intervaldetailbidsplit.numbidsplit3</dataname>
+        <dataname datapath="Intervaldetailbidsplit" datasize="49*4096" datastorage="1.53G">Intervaldetailbidsplit.numbidsplit5</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.largeOrderNum</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.orderAmount</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.largeBuyNum</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.smallSellNum</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.largeSellAmount</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.buyAmount</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.sellSize</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.largeOrderAmount</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.largeSellNum</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.smallSellAmount</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.buySize</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.sellAmount</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.largeBuySize</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.largeBuyAmount</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.largeOrderSize</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.orderSize</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.largeSellSize</dataname>
+        <dataname datapath="Intervaldetailsellret" datasize="49*4096" datastorage="1.53G">Intervaldetailsellret.skewsellvol</dataname>
+        <dataname datapath="Intervaldetailsellret" datasize="49*4096" datastorage="1.53G">Intervaldetailsellret.kurtsellvol</dataname>
+        <dataname datapath="Intervaldetailupdownstats" datasize="49*4096" datastorage="1.53G">Intervaldetailupdownstats.upnum</dataname>
+        <dataname datapath="Intervaldetailupdownstats" datasize="49*4096" datastorage="1.53G">Intervaldetailupdownstats.upbuynum</dataname>
+        <dataname datapath="Intervaldetailupdownstats" datasize="49*4096" datastorage="1.53G">Intervaldetailupdownstats.dnbuynum</dataname>
+        <dataname datapath="Intervaldetailbuyret" datasize="49*4096" datastorage="1.53G">Intervaldetailbuyret.skewbuyvol</dataname>
+        <dataname datapath="Intervaldetailbuyret" datasize="49*4096" datastorage="1.53G">Intervaldetailbuyret.kurtbuyvol</dataname>
+        <dataname datapath="Intervalstats" datasize="49*4096" datastorage="2.30G">Intervalstats.sum_amount</dataname>
+        <dataname datapath="Intervaldetailasksplit" datasize="49*4096" datastorage="1.53G">Intervaldetailasksplit.numask</dataname>
+        <dataname datapath="Intervaldetailasksplit" datasize="49*4096" datastorage="1.53G">Intervaldetailasksplit.numasksplit1</dataname>
+        <dataname datapath="IntervalData5min" datasize="49*4096" datastorage="2.30G">last_volume</dataname>
+        <dataname datapath="IntervalData5min" datasize="49*4096" datastorage="2.30G">interval_volume</dataname>
+    </stockdata>
+    <stockdata>
+        <cluster>6</cluster>
+        <dataname datapath="Intervalbidask12stats" datasize="49*4096" datastorage="1.04G">Intervalbidask12stats.bidsize1HighestP</dataname>
+        <dataname datapath="Intervalbidask12stats" datasize="49*4096" datastorage="1.04G">Intervalbidask12stats.asksize1LowestP</dataname>
+        <dataname datapath="Intervalbidask12stats" datasize="49*4096" datastorage="1.04G">Intervalbidask12stats.stdasksize12</dataname>
+        <dataname datapath="Intervalbidask12stats" datasize="49*4096" datastorage="1.04G">Intervalbidask12stats.bidsize1HighP</dataname>
+        <dataname datapath="Intervalbidask12stats" datasize="49*4096" datastorage="1.04G">Intervalbidask12stats.asksize1HighestP</dataname>
+        <dataname datapath="Intervalbidask12stats" datasize="49*4096" datastorage="1.04G">Intervalbidask12stats.asksize1HighP</dataname>
+        <dataname datapath="Intervalbidask12stats" datasize="49*4096" datastorage="1.04G">Intervalbidask12stats.bidsize1LowestP</dataname>
+        <dataname datapath="Intervalstats2" datasize="49*4096" datastorage="2.30G">Intervalstats2.std_vol</dataname>
+        <dataname datapath="Intervalextendstats2" datasize="49*4096" datastorage="2.30G">Intervalextendstats2.total_bid_size</dataname>
+        <dataname datapath="Intervalextendstats2" datasize="49*4096" datastorage="2.30G">Intervalextendstats2.total_ask_size</dataname>
+        <dataname datapath="Intervaldetailsellret" datasize="49*4096" datastorage="1.53G">Intervaldetailsellret.stdsellvol</dataname>
+        <dataname datapath="Intervaldetailbuyret" datasize="49*4096" datastorage="1.53G">Intervaldetailbuyret.stdbuyvol</dataname>
+        <dataname datapath="IntervalData5min" datasize="49*4096" datastorage="2.30G">interval_ask</dataname>
+        <dataname datapath="Intervalextendstats" datasize="49*4096" datastorage="2.30G">Intervalextendstats.mean_totalbidsize</dataname>
+        <dataname datapath="Intervalextendstats" datasize="49*4096" datastorage="2.30G">Intervalextendstats.mean_totalasksize</dataname>
+        <dataname datapath="Intervalstats13" datasize="49*4096" datastorage="2.30G">Intervalstats13.vol_diff_abs</dataname>
+        <dataname datapath="Intervalstats13" datasize="49*4096" datastorage="2.30G">Intervalstats13.vol_power</dataname>
+    </stockdata>
+    <stockdata>
+        <cluster>7</cluster>
+        <dataname datapath="Intervaldetailedstats" datasize="49*4096" datastorage="1.53G">Intervaldetailedstats.askVolumeRate</dataname>
+        <dataname datapath="Intervaldetailedstats" datasize="49*4096" datastorage="1.53G">Intervaldetailedstats.askWaitTime</dataname>
+        <dataname datapath="Intervaldetailedstats" datasize="49*4096" datastorage="1.53G">Intervaldetailedstats.vwAskLongWait</dataname>
+        <dataname datapath="Intervalqueuestats" datasize="49*4096" datastorage="2.30G">Intervalqueuestats.mean_orderSize</dataname>
+        <dataname datapath="Intervalqueuestats" datasize="49*4096" datastorage="2.30G">Intervalqueuestats.mean_orderNum</dataname>
+        <dataname datapath="Intervalqueuestats" datasize="49*4096" datastorage="2.30G">Intervalqueuestats.mean_orderAmount</dataname>
+        <dataname datapath="Intervalqueuestats" datasize="49*4096" datastorage="2.30G">Intervalqueuestats.mean_sellOrderAmount</dataname>
+        <dataname datapath="Intervalqueuestats" datasize="49*4096" datastorage="2.30G">Intervalqueuestats.mean_sellOrderNum</dataname>
+        <dataname datapath="Intervaldetailasksplit" datasize="49*4096" datastorage="1.53G">Intervaldetailasksplit.avgasksplit</dataname>
+        <dataname datapath="Intervaldetailasksplit" datasize="49*4096" datastorage="1.53G">Intervaldetailasksplit.avgvask</dataname>
+        <dataname datapath="Intervaldetailasksplit" datasize="49*4096" datastorage="1.53G">Intervaldetailasksplit.avgvlargeask</dataname>
+        <dataname datapath="Intervaldetailasksplit" datasize="49*4096" datastorage="1.53G">Intervaldetailasksplit.avgvasksplit</dataname>
+        <dataname datapath="IntervalData5min" datasize="49*4096" datastorage="2.30G">interval_asksize</dataname>
+    </stockdata>
+    <stockdata>
+        <cluster>8</cluster>
+        <dataname datapath="Intervalbidask12stats" datasize="49*4096" datastorage="1.04G">Intervalbidask12stats.stdbidsize12</dataname>
+        <dataname datapath="Intervalbidask12stats" datasize="49*4096" datastorage="1.04G">Intervalbidask12stats.waskHighP</dataname>
+        <dataname datapath="Intervalbidask12stats" datasize="49*4096" datastorage="1.04G">Intervalbidask12stats.waskLowestP</dataname>
+        <dataname datapath="Intervalbidask12stats" datasize="49*4096" datastorage="1.04G">Intervalbidask12stats.waskHighestP</dataname>
+        <dataname datapath="Intervaldetailsellret" datasize="49*4096" datastorage="1.53G">Intervaldetailsellret.benfordsellvol</dataname>
+        <dataname datapath="Intervaldetailedstats" datasize="49*4096" datastorage="1.53G">Intervaldetailedstats.vwAskVolumeRate</dataname>
+        <dataname datapath="Intervaldetailbuyret" datasize="49*4096" datastorage="1.53G">Intervaldetailbuyret.benfordbuyvol</dataname>
+        <dataname datapath="Intervalstats12" datasize="49*4096" datastorage="2.30G">Intervalstats12.instAction</dataname>
+        <dataname datapath="Intervalstats12" datasize="49*4096" datastorage="2.30G">Intervalstats12.instAction_buy</dataname>
+        <dataname datapath="Intervalstats12" datasize="49*4096" datastorage="2.30G">Intervalstats12.instAction_sell</dataname>
+        <dataname datapath="Intervalstatsbidask4" datasize="49*4096" datastorage="2.30G">Intervalstatsbidask4.instAction_bid1diff</dataname>
+        <dataname datapath="Intervalextendstats" datasize="49*4096" datastorage="2.30G">Intervalextendstats.diff_ask_price</dataname>
+        <dataname datapath="Intervalextendstats" datasize="49*4096" datastorage="2.30G">Intervalextendstats.corr_bid_price</dataname>
+    </stockdata>
+    <stockdata>
+        <cluster>9</cluster>
+        <dataname datapath="Intervalbidask12stats" datasize="49*4096" datastorage="1.04G">Intervalbidask12stats.wbidLowestP</dataname>
+        <dataname datapath="Intervalbidask12stats" datasize="49*4096" datastorage="1.04G">Intervalbidask12stats.wbidHighestP</dataname>
+        <dataname datapath="Intervalbidask12stats" datasize="49*4096" datastorage="1.04G">Intervalbidask12stats.wbidHighP</dataname>
+        <dataname datapath="Intervalbidask12stats" datasize="49*4096" datastorage="1.04G">Intervalbidask12stats.skewask12</dataname>
+        <dataname datapath="Intervalstatsbidask5" datasize="49*4096" datastorage="2.30G">Intervalstatsbidask5.bid_bigSpread_per</dataname>
+        <dataname datapath="Intervalstatsbidask5" datasize="49*4096" datastorage="2.30G">Intervalstatsbidask5.ask_bigSpread_per</dataname>
+        <dataname datapath="Intervalstatsbidask5" datasize="49*4096" datastorage="2.30G">Intervalstatsbidask5.ask_spreadPer_decile</dataname>
+        <dataname datapath="Intervalstatsbidask5" datasize="49*4096" datastorage="2.30G">Intervalstatsbidask5.bid_spreadPer_decile</dataname>
+        <dataname datapath="Intervalstats7b" datasize="49*4096" datastorage="2.30G">Intervalstats7b.score_goup1</dataname>
+        <dataname datapath="Intervalstats7b" datasize="49*4096" datastorage="2.30G">Intervalstats7b.score_goup10</dataname>
+        <dataname datapath="Intervalstats7b" datasize="49*4096" datastorage="2.30G">Intervalstats7b.score_godown10</dataname>
+        <dataname datapath="Intervalstats7b" datasize="49*4096" datastorage="2.30G">Intervalstats7b.score_godown1</dataname>
+        <dataname datapath="Intervaldetailsellret" datasize="49*4096" datastorage="1.53G">Intervaldetailsellret.bot1sellret</dataname>
+        <dataname datapath="Intervaldetailsellret" datasize="49*4096" datastorage="1.53G">Intervaldetailsellret.top1sellret</dataname>
+        <dataname datapath="Intervaldetailsellret" datasize="49*4096" datastorage="1.53G">Intervaldetailsellret.stdsellret</dataname>
+        <dataname datapath="Intervalstatsbidask" datasize="49*4096" datastorage="2.30G">Intervalstatsbidask.per_bid345_v</dataname>
+        <dataname datapath="Intervalstatsbidask" datasize="49*4096" datastorage="2.30G">Intervalstatsbidask.per_ask345_v</dataname>
+        <dataname datapath="Intervaldetailbuyret" datasize="49*4096" datastorage="1.53G">Intervaldetailbuyret.top1buyret</dataname>
+        <dataname datapath="Intervaldetailbuyret" datasize="49*4096" datastorage="1.53G">Intervaldetailbuyret.stdbuyret</dataname>
+        <dataname datapath="Intervaldetailbuyret" datasize="49*4096" datastorage="1.53G">Intervaldetailbuyret.bot1buyret</dataname>
+        <dataname datapath="Intervalstats" datasize="49*4096" datastorage="2.30G">Intervalstats.kurt_pd</dataname>
+        <dataname datapath="Intervalstats" datasize="49*4096" datastorage="2.30G">Intervalstats.std_pd</dataname>
+        <dataname datapath="Intervalstats12" datasize="49*4096" datastorage="2.30G">Intervalstats12.smartValue</dataname>
+        <dataname datapath="Intervalstatsbidask3a" datasize="49*4096" datastorage="2.30G">Intervalstatsbidask3a.corr_gap_a123v</dataname>
+        <dataname datapath="Intervalstatsbidask3a" datasize="49*4096" datastorage="2.30G">Intervalstatsbidask3a.corr_gap_b123v_2</dataname>
+        <dataname datapath="Intervalstatsbidask3a" datasize="49*4096" datastorage="2.30G">Intervalstatsbidask3a.corr_gap_b123v</dataname>
+        <dataname datapath="Intervalextendstats" datasize="49*4096" datastorage="2.30G">Intervalextendstats.diff_bid_price</dataname>
+        <dataname datapath="Intervalextendstats" datasize="49*4096" datastorage="2.30G">Intervalextendstats.pct_ask1</dataname>
+        <dataname datapath="Intervalstats13" datasize="49*4096" datastorage="2.30G">Intervalstats13.high_rets</dataname>
+        <dataname datapath="Intervalstats13" datasize="49*4096" datastorage="2.30G">Intervalstats13.std_rets</dataname>
+        <dataname datapath="Intervalstats13" datasize="49*4096" datastorage="2.30G">Intervalstats13.low_rets</dataname>
+        <dataname datapath="Intervaldetailedstats2" datasize="49*4096" datastorage="1.53G">Intervaldetailedstats2.vwLowApriceRate</dataname>
+        <dataname datapath="Intervaldetailedstats2" datasize="49*4096" datastorage="1.53G">Intervaldetailedstats2.vwHighBpriceRate</dataname>
+    </stockdata>
+</cqfunds>

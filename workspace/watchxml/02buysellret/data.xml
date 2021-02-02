@@ -1,0 +1,26 @@
+<cqfunds>
+        <stockdata>
+        <dataname datapath="Intervaldetailsellret" datasize="49*4096" datastorage="1.53G">Intervaldetailsellret.skewsellvol</dataname>
+        <dataname datapath="Intervaldetailsellret" datasize="49*4096" datastorage="1.53G">Intervaldetailsellret.benfordsellvol</dataname>
+        <dataname datapath="Intervaldetailsellret" datasize="49*4096" datastorage="1.53G">Intervaldetailsellret.bot1sellret</dataname>
+        <dataname datapath="Intervaldetailsellret" datasize="49*4096" datastorage="1.53G">Intervaldetailsellret.stdsellvol</dataname>
+        <dataname datapath="Intervaldetailsellret" datasize="49*4096" datastorage="1.53G">Intervaldetailsellret.skewsellret</dataname>
+        <dataname datapath="Intervaldetailsellret" datasize="49*4096" datastorage="1.53G">Intervaldetailsellret.avgsellret</dataname>
+        <dataname datapath="Intervaldetailsellret" datasize="49*4096" datastorage="1.53G">Intervaldetailsellret.kurtsellret</dataname>
+        <dataname datapath="Intervaldetailsellret" datasize="49*4096" datastorage="1.53G">Intervaldetailsellret.kurtsellvol</dataname>
+        <dataname datapath="Intervaldetailsellret" datasize="49*4096" datastorage="1.53G">Intervaldetailsellret.top1sellret</dataname>
+        <dataname datapath="Intervaldetailsellret" datasize="49*4096" datastorage="1.53G">Intervaldetailsellret.stdsellret</dataname>
+    </stockdata>
+    <stockdata>
+        <dataname datapath="Intervaldetailbuyret" datasize="49*4096" datastorage="1.53G">Intervaldetailbuyret.skewbuyvol</dataname>
+        <dataname datapath="Intervaldetailbuyret" datasize="49*4096" datastorage="1.53G">Intervaldetailbuyret.top1buyret</dataname>
+        <dataname datapath="Intervaldetailbuyret" datasize="49*4096" datastorage="1.53G">Intervaldetailbuyret.benfordbuyvol</dataname>
+        <dataname datapath="Intervaldetailbuyret" datasize="49*4096" datastorage="1.53G">Intervaldetailbuyret.stdbuyret</dataname>
+        <dataname datapath="Intervaldetailbuyret" datasize="49*4096" datastorage="1.53G">Intervaldetailbuyret.skewbuyret</dataname>
+        <dataname datapath="Intervaldetailbuyret" datasize="49*4096" datastorage="1.53G">Intervaldetailbuyret.avgbuyret</dataname>
+        <dataname datapath="Intervaldetailbuyret" datasize="49*4096" datastorage="1.53G">Intervaldetailbuyret.stdbuyvol</dataname>
+        <dataname datapath="Intervaldetailbuyret" datasize="49*4096" datastorage="1.53G">Intervaldetailbuyret.bot1buyret</dataname>
+        <dataname datapath="Intervaldetailbuyret" datasize="49*4096" datastorage="1.53G">Intervaldetailbuyret.kurtbuyvol</dataname>
+        <dataname datapath="Intervaldetailbuyret" datasize="49*4096" datastorage="1.53G">Intervaldetailbuyret.kurtbuyret</dataname>
+    </stockdata>
+</cqfunds>

@@ -1,0 +1,12 @@
+<cqfunds>
+       <stockdata>
+        <dataname datapath="Intervalqueuehlprice" datastorage="1.30G" datasize="49*5120">Intervalqueuehlprice.high_large_buy</dataname>
+        <dataname datapath="Intervalqueuehlprice" datastorage="1.30G" datasize="49*5120">Intervalqueuehlprice.high_skew_buy</dataname>
+        <dataname datapath="Intervalqueuehlprice" datastorage="1.30G" datasize="49*5120">Intervalqueuehlprice.low_num_sell</dataname>
+        <dataname datapath="Intervalqueuehlprice" datastorage="1.30G" datasize="49*5120">Intervalqueuehlprice.low_skew_sell</dataname>
+        <dataname datapath="Intervalqueuehlprice" datastorage="1.30G" datasize="49*5120">Intervalqueuehlprice.low_large_sell</dataname>
+        <dataname datapath="Intervalqueuehlprice" datastorage="1.30G" datasize="49*5120">Intervalqueuehlprice.high_skew_sell</dataname>
+        <dataname datapath="Intervalqueuehlprice" datastorage="1.30G" datasize="49*5120">Intervalqueuehlprice.low_skew_buy</dataname>
+        <dataname datapath="Intervalqueuehlprice" datastorage="1.30G" datasize="49*5120">Intervalqueuehlprice.high_num_buy</dataname>
+    </stockdata>
+</cqfunds>

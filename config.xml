@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <data_argv>
+        <stockdata>
+            <dataname datapath="Intervaldetailbidaskcrossstats" datastorage="1.30G" datasize="49*5210">Intervaldetailbidaskcrossstats.stdask1buy</dataname>
+            <dataname datapath="Intervaldetailbidaskcrossstats" datastorage="1.30G" datasize="49*5210">Intervaldetailbidaskcrossstats.sumbid1sell</dataname>
+            <dataname datapath="Intervaldetailbidaskcrossstats" datastorage="1.30G" datasize="49*5210">Intervaldetailbidaskcrossstats.sumask1buy</dataname>
+            <dataname datapath="Intervaldetailbidaskcrossstats" datastorage="1.30G" datasize="49*5210">Intervaldetailbidaskcrossstats.stdbid1sell</dataname>
+            <dataname datapath="Intervaldetailbidaskcrossstats" datastorage="1.30G" datasize="49*5210">Intervaldetailbidaskcrossstats.skewbid1sell</dataname>
+            <dataname datapath="Intervaldetailbidaskcrossstats" datastorage="1.30G" datasize="49*5210">Intervaldetailbidaskcrossstats.skewask1buy</dataname>
+        </stockdata>
+    </data_argv>
+    <intraparas>
+        <intrapara>
+            <paras>
+                <para>self.iter1[di][:]</para>
+<!--                <para>self.iter2[di][:]</para>-->
+            </paras>
+            <process>
+                <!--                p1 = para1 /np.nansum(para1, axis = 0)-->
+                <!--                p2 = para2 /np.nansum(para2, axis = 0)-->
+                <!--                beta = np.nansum(p1*p2, axis = 0)/np.nansum(p2**2, axis = 0)-->
+            </process>
+            <alpha>np.nanmean(para1, axis = 0)</alpha>
+            <!--            <alpha>para1</alpha>-->
+        </intrapara>
+    </intraparas>
+    <expressions>
+        <expression>decay(rank(a1), 8)</expression>
+    </expressions>
+    <bottom_sharpe>3</bottom_sharpe>
+    <template_name>template.py</template_name>
+    <delay>1</delay>
+    <remote_dir>./OF/OFFita</remote_dir>
+    <pnl_dir>./OF/OFFita/pnl</pnl_dir>
+    <startdate>20160101</startdate>
+    <!--    <sample_num>10</sample_num>-->
+</config>

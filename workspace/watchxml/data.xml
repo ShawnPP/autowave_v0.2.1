@@ -1,0 +1,61 @@
+<cqfunds>
+    <stockdata>
+        <dataname datapath="Intervaldetailaskcancelstats" datastorage="1.30G" datasize="49*5210">Intervaldetailaskcancelstats.sumSellCancelVolume</dataname>
+        <dataname datapath="Intervaldetailaskcancelstats" datastorage="1.30G" datasize="49*5210">Intervaldetailaskcancelstats.sellCancelVwap</dataname>
+        <dataname datapath="Intervaldetailaskcancelstats" datastorage="1.30G" datasize="49*5210">Intervaldetailaskcancelstats.sellCancelPrice</dataname>
+        <dataname datapath="Intervaldetailaskcancelstats" datastorage="1.30G" datasize="49*5210">Intervaldetailaskcancelstats.stdSellCancelTime</dataname>
+        <dataname datapath="Intervaldetailaskcancelstats" datastorage="1.30G" datasize="49*5210">Intervaldetailaskcancelstats.avgSellCancelTime</dataname>
+        <dataname datapath="Intervaldetailaskcancelstats" datastorage="1.30G" datasize="49*5210">Intervaldetailaskcancelstats.largeSellCancelTime</dataname>
+    </stockdata>
+    <stockdata>
+        <dataname datapath="Intervaldetailcancelstats" datastorage="1.30G" datasize="49*5210">Intervaldetailcancelstats.skewvolume</dataname>
+        <dataname datapath="Intervaldetailcancelstats" datastorage="1.30G" datasize="49*5210">Intervaldetailcancelstats.vbuy</dataname>
+        <dataname datapath="Intervaldetailcancelstats" datastorage="1.30G" datasize="49*5210">Intervaldetailcancelstats.vlargesell</dataname>
+        <dataname datapath="Intervaldetailcancelstats" datastorage="1.30G" datasize="49*5210">Intervaldetailcancelstats.numsell</dataname>
+        <dataname datapath="Intervaldetailcancelstats" datastorage="1.30G" datasize="49*5210">Intervaldetailcancelstats.vsell</dataname>
+        <dataname datapath="Intervaldetailcancelstats" datastorage="1.30G" datasize="49*5210">Intervaldetailcancelstats.vlargebuy</dataname>
+        <dataname datapath="Intervaldetailcancelstats" datastorage="1.30G" datasize="49*5210">Intervaldetailcancelstats.numbuy</dataname>
+    </stockdata>
+    <stockdata>
+        <dataname datapath="Intervaldetailbidcancelstats" datastorage="1.30G" datasize="49*5210">Intervaldetailbidcancelstats.buyCancelVwap</dataname>
+        <dataname datapath="Intervaldetailbidcancelstats" datastorage="1.30G" datasize="49*5210">Intervaldetailbidcancelstats.sumBuyCancelVolume</dataname>
+        <dataname datapath="Intervaldetailbidcancelstats" datastorage="1.30G" datasize="49*5210">Intervaldetailbidcancelstats.largeBuyCancelTime</dataname>
+        <dataname datapath="Intervaldetailbidcancelstats" datastorage="1.30G" datasize="49*5210">Intervaldetailbidcancelstats.buyCancelPrice</dataname>
+        <dataname datapath="Intervaldetailbidcancelstats" datastorage="1.30G" datasize="49*5210">Intervaldetailbidcancelstats.avgBuyCancelTime</dataname>
+        <dataname datapath="Intervaldetailbidcancelstats" datastorage="1.30G" datasize="49*5210">Intervaldetailbidcancelstats.stdBuyCancelTime</dataname>
+    </stockdata>
+    <stockdata>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.smallSellSize</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.largeOrderNum</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.orderAmount</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.largeBuyNum</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.smallSellNum</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.largeSellAmount</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.pct_smallOrderNum</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.buyAmount</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.sellSize</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.orderNum</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.largeOrderAmount</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.diff_buySellAmount</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.smallBuyNum</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.orderVwap</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.smallOrderAmount</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.largeSellNum</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.smallBuyAmount</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.smallSellAmount</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.smallOrderNum</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.buySize</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.sellAmount</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.sellVwap</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.largeBuySize</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.largeBuyAmount</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.smallBuySize</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.smallOrderSize</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.buyVwap</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.diff_buySellSize</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.largeOrderSize</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.orderSize</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.largeSellSize</dataname>
+        <dataname datapath="Intervalorderstats" datasize="49*4096" datastorage="2.30G">Intervalorderstats.pct_buy</dataname>
+    </stockdata>
+</cqfunds>
