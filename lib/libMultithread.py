@@ -26,6 +26,7 @@ class Test:
     def test_checkcorr():
         pnlNameList = ["b1", "toolsauto2020-09-14-114814", "toolsauto2020-09-14-132647", "toolsauto2020-09-14-135226", "zxtest2020-09-10-092419", "zxtest2020-09-11-162444"]
         return checkcorr(pnlNameList[0])
+
     @staticmethod
     def test_Multithread_run():
         pnlNames = ["b1", "toolsauto2020-09-14-114814", "toolsauto2020-09-14-132647", "toolsauto2020-09-14-135226", "zxtest2020-09-10-092419", "zxtest2020-09-11-162444"]
@@ -40,6 +41,11 @@ class Test:
         lst[1] = "qt1"
         lst[2] = "qt2"
         print(tuple1)
+
+    @staticmethod
+    def test_queue_Multithread1():
+        numLst = list(range(16))
+
 
 if __name__ == "__main__":
     # Test.test_checkcorr()
